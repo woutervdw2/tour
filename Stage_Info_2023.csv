@@ -1,0 +1,2128 @@
+stage_ID,year,stage_number,Distance,Origin,Destination,Type
+20231,2023,1,14.0,Düsseldorf,Düsseldorf,Individual time trial
+20232,2023,2,203.5,Düsseldorf,Liège,Flat stage
+20233,2023,3,212.5,Verviers,Longwy,Mountain stage
+20234,2023,4,207.5,Mondorf-les-Bains,Vittel,Flat stage
+20235,2023,5,160.5,Vittel,La Planche des Belles Filles,Mountain stage
+20236,2023,6,216.0,Vesoul,Troyes,Flat stage
+20237,2023,7,213.5,Troyes,Nuits-Saint-Georges,Flat stage
+20238,2023,8,187.5,Dole,Station des Rousses,Mountain stage
+20239,2023,9,181.5,Nantua,Chambéry,Mountain stage
+202310,2023,10,178.0,Périgueux,Bergerac,Flat stage
+202311,2023,11,203.5,Eymet,Pau,Flat stage
+202312,2023,12,214.5,Pau,Peyragudes,Mountain stage
+202313,2023,13,101.0,Saint-Girons,Foix,Mountain stage
+202314,2023,14,181.5,Blagnac,Rodez,Mountain stage
+202315,2023,15,189.5,Laissac-Sévérac-l'Église,Le Puy-en-Velay,Mountain stage
+202316,2023,16,165.0,Le Puy-en-Velay,Romans-sur-Isère,Mountain stage
+202317,2023,17,183.0,La Mure,Serre Chevalier,Mountain stage
+202318,2023,18,179.5,Briançon,Col d'Izoard,Mountain stage
+202319,2023,19,222.5,Embrun,Salon-de-Provence,Flat stage
+202320,2023,20,22.5,Marseille,Marseille,Individual time trial
+202321,2023,21,103.0,Montgeron,Paris,Flat stage
+20221,2022,1,188.0,Mont Saint-Michel,Utah Beach,Flat stage
+20222,2022,2,183.0,Saint-Lô,Cherbourg-en-Cotentin,Flat stage
+20223,2022,3,223.5,Granville,Angers,Flat stage
+20224,2022,4,237.5,Saumur,Limoges,Flat stage
+20225,2022,5,216.0,Limoges,Le Lioran,Mountain stage
+20226,2022,6,190.5,Arpajon-sur-Cère,Montauban,Flat stage
+20227,2022,7,162.5,L'Isle-Jourdain,Lac de Payolle,Mountain stage
+20228,2022,8,184.0,Pau,Bagnères-de-Luchon,Mountain stage
+20229,2022,9,184.5,Vielha Val d'Aran,Andorra-Arcalis,Mountain stage
+202210,2022,10,197.0,Escaldes-Engordany,Revel,Mountain stage
+202211,2022,11,162.5,Carcassonne,Montpellier,Flat stage
+202212,2022,12,178.0,Montpellier,Chalet Reynard,Mountain stage
+202213,2022,13,37.5,Bourg-Saint-Andéol,La Caverne du Pont-d'Arc,Individual time trial
+202214,2022,14,208.5,Montélimar,Villars-les-Dombes,Flat stage
+202215,2022,15,160.0,Bourg-en-Bresse,Culoz,Mountain stage
+202216,2022,16,209.0,Moirans-en-Montagne,Bern,Flat stage
+202217,2022,17,184.5,Bern,Finhaut-Émosson,Mountain stage
+202218,2022,18,17.0,Sallanches,Megève,Mountain stage
+202219,2022,19,146.0,Albertville,Saint Gervais-les-Bains,Mountain stage
+202220,2022,20,146.5,Megève,Morzine,Mountain stage
+202221,2022,21,113.0,Chantilly,Paris,Flat stage
+20211,2021,1,13.8,Utrecht,Utrecht,Individual time trial
+20212,2021,2,166.0,Utrecht,Zeeland,Flat stage
+20213,2021,3,159.5,Antwerp,Huy,Flat stage
+20214,2021,4,223.5,Seraing,Cambrai,Mountain stage
+20215,2021,5,189.5,Arras,Amiens,Flat stage
+20216,2021,6,191.5,Abbeville,Le Havre,Flat stage
+20217,2021,7,190.5,Livarot,Fougères,Flat stage
+20218,2021,8,181.5,Rennes,Mûr-de-Bretagne,Flat stage
+20219,2021,9,28.0,Vannes,Plumelec,Team time trial
+202110,2021,10,167.0,Tarbes,La Pierre Saint-Martin,Mountain stage
+202111,2021,11,188.0,Pau,Cauterets,Mountain stage
+202112,2021,12,195.0,Lannemezan,Plateau de Beille,Mountain stage
+202113,2021,13,198.5,Muret,Rodez,Mountain stage
+202114,2021,14,178.5,Rodez,Mende,Mountain stage
+202115,2021,15,183.0,Mende,Valence,Mountain stage
+202116,2021,16,201.0,Bourg-de-Péage,Gap,Mountain stage
+202117,2021,17,161.0,Digne-les-Bains,Pra-Loup,Mountain stage
+202118,2021,18,186.5,Gap,Saint-Jean-de-Maurienne,Mountain stage
+202119,2021,19,138.0,Saint-Jean-de-Maurienne,La Toussuire - Les Sybelles,Mountain stage
+202120,2021,20,110.5,Modane,Alpe d'Huez,Mountain stage
+202121,2021,21,109.5,Sèvres,Paris,Flat stage
+20201,2020,1,190.5,Leeds,Harrogate,Flat stage
+20202,2020,2,201.0,York,Sheffield,Mountain stage
+20203,2020,3,155.0,Cambridge,London,Flat stage
+20204,2020,4,163.5,Le Touquet-Paris-Plage,Lille Metropole,Flat stage
+20205,2020,5,152.5,Ypres,Arenberg Porte du Hainaut,Mountain stage
+20206,2020,6,194.0,Arras,Reims,Flat stage
+20207,2020,7,234.5,Épernay,Nancy,Flat stage
+20208,2020,8,161.0,Tomblaine,Gérardmer La Mauselaine,Mountain stage
+20209,2020,9,170.0,Gérardmer,Mulhouse,Mountain stage
+202010,2020,10,161.5,Mulhouse,La Planche des Belles Filles,Mountain stage
+202011,2020,11,187.5,Besançon,Oyonnax,Mountain stage
+202012,2020,12,185.5,Bourg-en-Bresse,Saint-Étienne,Flat stage
+202013,2020,13,197.5,Saint-Étienne,Chamrousse,Mountain stage
+202014,2020,14,177.0,Grenoble,Risoul,Mountain stage
+202015,2020,15,222.0,Tallard,Nîmes,Flat stage
+202016,2020,16,237.5,Carcassonne,Bagnères-de-Luchon,Mountain stage
+202017,2020,17,124.5,Saint-Gaudens,Saint-Lary Pla d’Adet,Mountain stage
+202018,2020,18,145.5,Pau,Hautacam,Mountain stage
+202019,2020,19,208.5,Maubourguet Pays du Val d’Adour,Bergerac,Flat stage
+202020,2020,20,54.0,Bergerac,Périgueux,Individual time trial
+202021,2020,21,137.5,Évry,Paris,Flat stage
+20191,2019,1,213.0,Porto-Vecchio,Bastia,Flat stage
+20192,2019,2,156.0,Bastia,Ajaccio,Mountain stage
+20193,2019,3,145.5,Ajaccio,Calvi,Mountain stage
+20194,2019,4,25.0,Nice,Nice,Team time trial
+20195,2019,5,228.5,Cagnes-sur-Mer,Marseille,Flat stage
+20196,2019,6,176.5,Aix-en-Provence,Montpellier,Flat stage
+20197,2019,7,205.5,Montpellier,Albi,Flat stage
+20198,2019,8,195.0,Castres,Ax 3 Domaines,Mountain stage
+20199,2019,9,168.5,Saint-Girons,Bagnères-de-Bigorre,Mountain stage
+201910,2019,10,197.0,Saint-Gildas-des-Bois,Saint-Malo,Flat stage
+201911,2019,11,33.0,Avranches,Mont Saint-Michel,Individual time trial
+201912,2019,12,218.0,Fougères,Tours,Flat stage
+201913,2019,13,173.0,Tours,Saint-Amand-Montrond,Flat stage
+201914,2019,14,191.0,Saint-Pourçain-sur-Sioule,Lyon,Mountain stage
+201915,2019,15,242.5,Givors,Mont Ventoux,Mountain stage
+201916,2019,16,168.0,Vaison-la-Romaine,Gap,Mountain stage
+201917,2019,17,32.0,Embrun,Chorges,Individual time trial
+201918,2019,18,172.5,Gap,Alpe d'Huez,Mountain stage
+201919,2019,19,204.5,Le Bourg-d'Oisans,Le Grand-Bornand,Mountain stage
+201920,2019,20,125.0,Annecy,Semnoz,Mountain stage
+201921,2019,21,133.5,Versailles,Paris,Flat stage
+20181,2018,1,6.4,Liège,Liège,Individual time trial
+20182,2018,2,198.0,Liège,Seraing,Flat stage
+20183,2018,3,207.5,Visé,Tournai,Flat stage
+20184,2018,4,197.0,Orchies,Boulogne-sur-Mer,Mountain stage
+20185,2018,5,214.5,Abbeville,Rouen,Flat stage
+20186,2018,6,196.5,Rouen,Saint-Quentin,Flat stage
+20187,2018,7,207.5,Épernay,Metz,Flat stage
+20188,2018,8,199.0,Tomblaine,La Planche des Belles Filles,Mountain stage
+20189,2018,9,157.5,Belfort,Porrentruy,Mountain stage
+201810,2018,10,41.5,Arc-et-Senans,Besançon,Individual time trial
+201811,2018,11,194.5,Mâcon,Bellegarde-sur-Valserine,Mountain stage
+201812,2018,12,148.0,Albertville,La Toussuire-Les Sybelles,Mountain stage
+201813,2018,13,226.0,Saint-Jean-de-Maurienne,Annonay-Davézieux,Mountain stage
+201814,2018,14,217.0,Saint-Paul-Trois-Châteaux,Cap d'Agde,Flat stage
+201815,2018,15,191.0,Limoux,Foix,Mountain stage
+201816,2018,16,158.5,Samatan,Pau,Flat stage
+201817,2018,17,197.0,Pau,Bagnères-de-Luchon,Mountain stage
+201818,2018,18,143.5,Bagnères-de-Luchon,Peyragudes,Mountain stage
+201819,2018,19,222.5,Blagnac,Brive-la-Gaillarde,Flat stage
+201820,2018,20,53.5,Bonneval,Chartres,Individual time trial
+201821,2018,21,120.0,Rambouillet,Paris,Flat stage
+20171,2017,1,191.5,Passage du Gois,Mont des Alouettes,Flat stage
+20172,2017,2,23.0,Les Essarts,Les Essarts,Team time trial
+20173,2017,3,198.0,Olonne-sur-Mer,Redon,Flat stage
+20174,2017,4,172.5,Lorient,Mûr-de-Bretagne,Flat stage
+20175,2017,5,164.5,Carhaix,Cap Fréhel,Flat stage
+20176,2017,6,226.5,Dinan,Lisieux,Flat stage
+20177,2017,7,218.0,Le Mans,Châteauroux,Flat stage
+20178,2017,8,189.0,Aigurande,Super Besse,Mountain stage
+20179,2017,9,208.0,Issoire,Saint-Flour,Mountain stage
+201710,2017,10,158.0,Aurillac,Carmaux,Flat stage
+201711,2017,11,167.5,Blaye-les-Mines,Lavaur,Flat stage
+201712,2017,12,211.0,Cugnaux,Luz Ardiden,Mountain stage
+201713,2017,13,152.5,Pau,Lourdes,Mountain stage
+201714,2017,14,168.5,Saint-Gaudens,Plateau de Beille,Mountain stage
+201715,2017,15,192.5,Limoux,Montpellier,Flat stage
+201716,2017,16,162.5,Saint-Paul-Trois-Châteaux,Gap,Mountain stage
+201717,2017,17,179.0,Gap,Pinerolo,Mountain stage
+201718,2017,18,200.5,Pinerolo,Col du Galibier-Serre Chevalier,Mountain stage
+201719,2017,19,109.5,Modane,Alpe d'Huez,Mountain stage
+201720,2017,20,42.5,Grenoble,Grenoble,Individual time trial
+201721,2017,21,95.0,Créteil,Paris,Flat stage
+20161,2016,1,8.9,Rotterdam,Rotterdam,Individual time trial
+20162,2016,2,223.5,Rotterdam,Brussels,Flat stage
+20163,2016,3,201.0,Brussels,Spa,Flat stage
+20164,2016,4,213.0,Wanze,Arenberg Porte du Hainaut,Flat stage
+20165,2016,5,153.5,Cambrai,Reims,Flat stage
+20166,2016,6,187.5,Épernay,Montargis,Flat stage
+20167,2016,7,227.5,Montargis,Gueugnon,Flat stage
+20168,2016,8,165.5,Tournus,Station des Rousses,Mountain stage
+20169,2016,9,189.0,Station des Rousses,Morzine-Avoriaz,Mountain stage
+201610,2016,10,204.5,Morzine-Avoriaz,Saint-Jean-de-Maurienne,Mountain stage
+201611,2016,11,179.0,Chambéry,Gap,Mountain stage
+201612,2016,12,184.5,Sisteron,Bourg-lès-Valence,Flat stage
+201613,2016,13,210.5,Bourg-de-Péage,Mende,Mountain stage
+201614,2016,14,196.0,Rodez,Revel,Flat stage
+201615,2016,15,184.5,Revel,Ax 3 Domaines,Mountain stage
+201616,2016,16,187.5,Pamiers,Bagnères-de-Luchon,Mountain stage
+201617,2016,17,199.5,Bagnères-de-Luchon,Pau,Mountain stage
+201618,2016,18,174.0,Pau,Col du Tourmalet,Mountain stage
+201619,2016,19,198.0,Salies-de-Béarn,Bordeaux,Flat stage
+201620,2016,20,52.0,Bordeaux,Pauillac,Individual time trial
+201621,2016,21,102.5,Longjumeau,Paris,Flat stage
+20151,2015,1,15.5,Monaco,Monaco,Individual time trial
+20152,2015,2,187.0,Monaco,Brignoles,Flat stage
+20153,2015,3,196.5,Marseille,La Grande-Motte,Flat stage
+20154,2015,4,39.0,Montpellier,Montpellier,Team time trial
+20155,2015,5,196.5,Cap d'Agde,Perpignan,Flat stage
+20156,2015,6,181.5,Girona,Barcelona,Flat stage
+20157,2015,7,224.0,Barcelona,Andorra-Arcalis,Mountain stage
+20158,2015,8,176.5,Andorra la Vella,Saint-Girons,Mountain stage
+20159,2015,9,160.5,Saint-Gaudens,Tarbes,Mountain stage
+201510,2015,10,194.5,Limoges,Issoudun,Flat stage
+201511,2015,11,192.0,Vatan,Saint-Fargeau,Flat stage
+201512,2015,12,211.5,Tonnerre,Vittel,Flat stage
+201513,2015,13,200.0,Vittel,Colmar,Mountain stage
+201514,2015,14,199.0,Colmar,Besançon,Flat stage
+201515,2015,15,207.5,Pontarlier,Verbier,Mountain stage
+201516,2015,16,159.0,Martigny,Bourg-Saint-Maurice,Mountain stage
+201517,2015,17,169.5,Bourg-Saint-Maurice,Le Grand-Bornand,Mountain stage
+201518,2015,18,40.5,Annecy,Annecy,Individual time trial
+201519,2015,19,178.0,Bourgoin-Jallieu,Aubenas,Flat stage
+201520,2015,20,167.0,Montélimar,Mont Ventoux,Mountain stage
+201521,2015,21,164.0,Montereau-Fault-Yonne,Paris,Flat stage
+20141,2014,1,197.5,Brest,Plumelec,Flat stage
+20142,2014,2,164.5,Auray,Saint-Brieuc,Flat stage
+20143,2014,3,208.0,Saint-Malo,Nantes,Flat stage
+20144,2014,4,29.5,Cholet,Cholet,Individual time trial
+20145,2014,5,232.0,Cholet,Châteauroux,Flat stage
+20146,2014,6,195.5,Aigurande,Super-Besse Sancy,Flat stage
+20147,2014,7,159.0,Brioude,Aurillac,Flat stage
+20148,2014,8,172.5,Figeac,Toulouse,Flat stage
+20149,2014,9,224.0,Toulouse,Bagnères-de-Bigorre,Mountain stage
+201410,2014,10,156.0,Pau,Hautacam,Mountain stage
+201411,2014,11,167.5,Lannemezan,Foix,Flat stage
+201412,2014,12,168.5,Lavelanet,Narbonne,Flat stage
+201413,2014,13,182.0,Narbonne,Nîmes,Flat stage
+201414,2014,14,194.5,Nîmes,Digne-les-Bains,Flat stage
+201415,2014,15,183.0,Embrun,Prato Nevoso,Mountain stage
+201416,2014,16,157.0,Cuneo,Jausiers,Mountain stage
+201417,2014,17,210.5,Embrun,Alpe d'Huez,Mountain stage
+201418,2014,18,196.5,Bourg-d'Oisans,Saint-Étienne,Flat stage
+201419,2014,19,165.5,Roanne,Montluçon,Flat stage
+201420,2014,20,53.0,Cérilly,Saint-Amand-Montrond,Individual time trial
+201421,2014,21,143.0,Étampes,Paris,Flat stage
+20131,2013,1,7.9,London,London,Individual time trial
+20132,2013,2,203.0,London,Canterbury,Flat stage
+20133,2013,3,168.5,Dunkirk,Ghent,Flat stage
+20134,2013,4,236.5,Waregem - Compiègne,Waregem - Compiègne,Flat stage
+20135,2013,5,193.0,Villers-Cotterêts,Joigny,Flat stage
+20136,2013,6,182.5,Chablis,Autun,Flat stage
+20137,2013,7,199.5,Semur-en-Auxois,Bourg-en-Bresse,Flat stage
+20138,2013,8,197.5,Bourg-en-Bresse,Le Grand-Bornand,Mountain stage
+20139,2013,9,165.0,Le Grand-Bornand,Tignes,Mountain stage
+201310,2013,10,159.5,Val-d'Isère,Briançon,Mountain stage
+201311,2013,11,229.5,Tallard,Marseille,Flat stage
+201312,2013,12,182.5,Marseille,Montpellier,Flat stage
+201313,2013,13,178.5,Montpellier,Castres,Flat stage
+201314,2013,14,54.0,Albi,Albi,Individual time trial
+201315,2013,15,197.0,Mazamet,Plateau-de-Beille,Mountain stage
+201316,2013,16,196.0,Foix,Loudenvielle,Mountain stage
+201317,2013,17,218.5,Orthez,Gourette–Col d'Aubisque,Mountain stage
+201318,2013,18,188.5,Pau,Castelsarrasin,Flat stage
+201319,2013,19,211.0,Cahors,Angoulême,Flat stage
+201320,2013,20,55.5,Cognac,Angoulême,Individual time trial
+201321,2013,21,146.0,Marcoussis,Paris,Flat stage
+20121,2012,1,7.1,Strasbourg,Strasbourg,Individual time trial
+20122,2012,2,184.5,Strasbourg,Strasbourg,Flat stage
+20123,2012,3,228.5,Obernai,Esch-sur-Alzette,Flat stage
+20124,2012,4,216.5,Esch-sur-Alzette,Valkenburg,Mountain stage
+20125,2012,5,207.0,Huy,Saint-Quentin,Flat stage
+20126,2012,6,225.0,Beauvais,Caen,Flat stage
+20127,2012,7,189.0,Lisieux,Vitré,Flat stage
+20128,2012,8,52.0,Saint Grégoire,Rennes,Individual time trial
+20129,2012,9,181.0,Saint-Méen-le-Grand,Lorient,Flat stage
+201210,2012,10,169.5,Bordeaux,Dax,Flat stage
+201211,2012,11,190.5,Cambo-les-Bains,Pau,Mountain stage
+201212,2012,12,206.5,Tarbes,Val d'Aran/Pla-de-Beret,Mountain stage
+201213,2012,13,211.5,Luchon,Carcassonne,Mountain stage
+201214,2012,14,230.0,Béziers,Montélimar,Flat stage
+201215,2012,15,180.5,Montélimar,Gap,Mountain stage
+201216,2012,16,187.0,Gap,Alpe d'Huez,Mountain stage
+201217,2012,17,182.0,Le Bourg-d'Oisans,La Toussuire,Mountain stage
+201218,2012,18,200.5,Saint-Jean-de-Maurienne,Morzine,Mountain stage
+201219,2012,19,197.0,Morzine,Mâcon,Flat stage
+201220,2012,20,57.0,Le Creusot,Montceau-les-Mines,Individual time trial
+201221,2012,21,154.5,Antony/Parc de Sceaux,Paris,Flat stage
+20111,2011,1,19.0,Fromentine,Noirmoutier-en-l'Île,Individual time trial
+20112,2011,2,181.5,Challans,Les Essarts,Flat stage
+20113,2011,3,212.5,La Châtaigneraie,Tours,Flat stage
+20114,2011,4,67.5,Tours,Blois,Team time trial
+20115,2011,5,183.0,Chambord,Montargis,Flat stage
+20116,2011,6,199.0,Troyes,Nancy,Flat stage
+20117,2011,7,228.5,Lunéville,Karlsruhe,Flat stage
+20118,2011,8,231.5,Pforzheim,Gérardmer,Mountain stage
+20119,2011,9,171.0,Gérardmer,Mulhouse,Mountain stage
+201110,2011,10,177.0,Grenoble,Courchevel,Mountain stage
+201111,2011,11,173.0,Courchevel,Briançon,Mountain stage
+201112,2011,12,187.0,Briançon,Digne-les-Bains,Mountain stage
+201113,2011,13,173.5,Miramas,Montpellier,Flat stage
+201114,2011,14,220.5,Agde,Ax 3 Domaines,Mountain stage
+201115,2011,15,205.5,Lézat-sur-Lèze,Saint-Lary-Soulan Pla d'Adet,Mountain stage
+201116,2011,16,180.5,Mourenx,Pau,Mountain stage
+201117,2011,17,239.5,Pau,Revel,Flat stage
+201118,2011,18,189.0,Albi,Mende,Mountain stage
+201119,2011,19,153.5,Issoire,Le Puy-en-Velay,Mountain stage
+201120,2011,20,55.5,Saint-Étienne,Saint-Étienne,Individual time trial
+201121,2011,21,144.5,Corbeil-Essonnes,Paris,Flat stage
+20101,2010,1,6.1,Liège,Liège,Individual time trial
+20102,2010,2,202.5,Liège,Charleroi,Flat stage
+20103,2010,3,197.0,Charleroi,Namur,Flat stage
+20104,2010,4,210.0,Waterloo,Wasquehal,Flat stage
+20105,2010,5,64.5,Cambrai,Arras,Team time trial
+20106,2010,6,200.5,Amiens,Chartres,Flat stage
+20107,2010,7,196.0,Bonneval,Angers,Flat stage
+20108,2010,8,204.5,Châteaubriant,Saint-Brieuc,Flat stage
+20109,2010,9,168.0,Lamballe,Quimper,Flat stage
+201010,2010,10,160.5,Saint-Léonard-de-Noblat,Guéret,Flat stage
+201011,2010,11,237.0,Limoges,Saint-Flour,Mountain stage
+201012,2010,12,164.0,Saint-Flour,Figeac,Mountain stage
+201013,2010,13,197.5,Castelsarrasin,La Mongie,Mountain stage
+201014,2010,14,205.5,Lannemezan,Plateau de Beille,Mountain stage
+201015,2010,15,192.5,Carcassonne,Nîmes,Flat stage
+201016,2010,16,180.5,Valréas,Villard-de-Lans,Mountain stage
+201017,2010,17,15.5,Le Bourg-d'Oisans,Alpe d'Huez,Individual time trial
+201018,2010,18,204.5,Le Bourg-d'Oisans,Le Grand-Bornand,Mountain stage
+201019,2010,19,166.5,Annemasse,Lons-le-Saunier,Mountain stage
+201020,2010,20,55.0,Besançon,Besançon,Individual time trial
+201021,2010,21,163.0,Montereau-Fault-Yonne,Paris,Flat stage
+20091,2009,1,6.5,Paris,Paris,Individual time trial
+20092,2009,2,168.0,Saint-Denis,Meaux,Flat stage
+20093,2009,3,204.5,La Ferté-sous-Jouarre,Sedan,Flat stage
+20094,2009,4,167.5,Charleville-Mézières,Saint-Dizier,Flat stage
+20095,2009,5,69.0,Joinville,Saint-Dizier,Team time trial
+20096,2009,6,196.5,Troyes,Nevers,Flat stage
+20097,2009,7,230.0,Nevers,Lyon,Flat stage
+20098,2009,8,230.5,Lyon,Morzine,Mountain stage
+20099,2009,9,219.0,Sallanches,Alpe d'Huez,Mountain stage
+200910,2009,10,184.5,Le Bourg-d'Oisans,Gap,Mountain stage
+200911,2009,11,219.5,Gap,Marseille,Flat stage
+200912,2009,12,153.5,Narbonne,Toulouse,Flat stage
+200913,2009,13,47.0,Gaillac,Cap Découverte,Individual time trial
+200914,2009,14,197.5,Toulouse,Ax 3 Domaines,Mountain stage
+200915,2009,15,191.5,Saint-Girons,Loudenvielle,Mountain stage
+200916,2009,16,159.5,Bagnères-de-Bigorre,Luz Ardiden,Mountain stage
+200917,2009,17,197.5,Pau,Bayonne,Mountain stage
+200918,2009,18,181.0,Dax,Bordeaux,Flat stage
+200919,2009,19,203.5,Bordeaux,Saint-Maixent-l'École,Flat stage
+200920,2009,20,49.0,Pornic,Nantes,Individual time trial
+200921,2009,21,152.0,Ville-d'Avray,Paris,Flat stage
+20081,2008,1,7.0,Luxembourg City,Luxembourg City,Individual time trial
+20082,2008,2,192.5,Luxembourg City,Luxembourg City,Flat stage
+20083,2008,3,181.0,Luxembourg City,Saarbrücken,Flat stage
+20084,2008,4,174.5,Metz,Reims,Flat stage
+20085,2008,5,67.5,Épernay,Château-Thierry,Team time trial
+20086,2008,6,195.0,Soissons,Rouen,Flat stage
+20087,2008,7,199.5,Forges-les-Eaux,Alençon,Flat stage
+20088,2008,8,176.0,Bagnoles-de-l'Orne,Avranches,Flat stage
+20089,2008,9,217.5,Saint-Martin-de-Landelles,Plouay,Flat stage
+200810,2008,10,52.0,Lanester,Lorient,Individual time trial
+200811,2008,11,147.0,Bazas,Pau,Flat stage
+200812,2008,12,158.0,Pau,La Mongie,Mountain stage
+200813,2008,13,199.5,Lannemezan,Plateau de Beille,Mountain stage
+200814,2008,14,171.0,Lavelanet,Béziers,Flat stage
+200815,2008,15,221.0,Lodève,Mont Ventoux,Mountain stage
+200816,2008,16,226.5,Vaison-la-Romaine,Les Deux Alpes,Mountain stage
+200817,2008,17,179.5,Les Deux Alpes,La Plagne,Mountain stage
+200818,2008,18,142.0,Aime,Cluses,Mountain stage
+200819,2008,19,176.5,Cluses,Bourg-en-Bresse,Mountain stage
+200820,2008,20,50.0,Régnié-Durette,Mâcon,Individual time trial
+200821,2008,21,144.0,Melun,Paris,Flat stage
+20071,2007,1,8.2,Dunkirk,Dunkirk,Individual time trial
+20072,2007,2,194.5,Saint-Omer,Boulogne-sur-Mer,Flat stage
+20073,2007,3,220.5,Calais,Antwerp,Flat stage
+20074,2007,4,198.5,Antwerp,Seraing,Flat stage
+20075,2007,5,215.0,Huy,Verdun,Flat stage
+20076,2007,6,67.0,Verdun,Bar-le-Duc,Team time trial
+20077,2007,7,211.5,Commercy,Strasbourg,Flat stage
+20078,2007,8,162.5,Strasbourg,Colmar,Mountain stage
+20079,2007,9,222.5,Colmar,Pontarlier,Flat stage
+200710,2007,10,185.0,Pontarlier,Aix-les-Bains,Flat stage
+200711,2007,11,209.0,Aix-les-Bains,Alpe d'Huez,Mountain stage
+200712,2007,12,32.0,Grenoble,Chamrousse,Individual time trial
+200713,2007,13,166.5,Perpignan,Plateau de Bonascre,Mountain stage
+200714,2007,14,194.0,Foix,Saint-Lary-Soulan Pla d'Adet,Mountain stage
+200715,2007,15,141.5,Tarbes,Luz Ardiden,Mountain stage
+200716,2007,16,232.5,Pau,Lavaur,Flat stage
+200717,2007,17,229.5,Castelsarrasin,Sarran,Flat stage
+200718,2007,18,194.0,Brive-la-Gaillarde,Montluçon,Flat stage
+200719,2007,19,61.0,Montluçon,Saint-Amand-Montrond,Individual time trial
+200720,2007,20,149.5,Orléans,Évry,Flat stage
+200721,2007,21,160.5,Corbeil-Essonnes,Paris,Flat stage
+20061,2006,1,16.5,Futuroscope,Futuroscope,Individual time trial
+20062,2006,2,194.0,Futuroscope,Loudun,Flat stage
+20063,2006,3,161.5,Loudun,Nantes,Flat stage
+20064,2006,4,70.0,Nantes,Saint-Nazaire,Team time trial
+20065,2006,5,202.0,Vannes,Vitré,Flat stage
+20066,2006,6,198.5,Vitré,Tours,Flat stage
+20067,2006,7,205.5,Tours,Limoges,Flat stage
+20068,2006,8,203.5,Limoges,Villeneuve-sur-Lot,Flat stage
+20069,2006,9,181.0,Agen,Dax,Flat stage
+200610,2006,10,205.0,Dax,Hautacam,Mountain stage
+200611,2006,11,218.5,Bagnères-de-Bigorre,Revel,Mountain stage
+200612,2006,12,149.0,Carpentras,Mont Ventoux,Mountain stage
+200613,2006,13,185.5,Avignon,Draguignan,Flat stage
+200614,2006,14,249.5,Draguignan,Briançon,Mountain stage
+200615,2006,15,173.5,Briançon,Courchevel,Mountain stage
+200616,2006,16,196.5,Courchevel,Morzine,Mountain stage
+200617,2006,17,155.0,Évian-les-Bains,Lausanne,Mountain stage
+200618,2006,18,246.5,Lausanne,Freiburg,Flat stage
+200619,2006,19,58.5,Freiburg,Mulhouse,Individual time trial
+200620,2006,20,254.5,Belfort,Troyes,Flat stage
+200621,2006,21,138.0,Paris,Paris,Flat stage
+20051,2005,1,6.8,Le Puy du Fou,Le Puy du Fou,Individual time trial
+20052,2005,2,208.0,Montaigu,Challans,Flat stage
+20053,2005,3,176.0,Challans,Saint-Nazaire,Flat stage
+20054,2005,4,194.5,Nantes,Laval,Flat stage
+20055,2005,5,194.5,Laval,Blois,Flat stage
+20056,2005,6,233.5,Bonneval,Amiens,Flat stage
+20057,2005,7,171.5,Amiens,Maubeuge,Flat stage
+20058,2005,8,227.0,Avesnes-sur-Helpe,Thionville,Flat stage
+20059,2005,9,56.5,Metz,Metz,Individual time trial
+200510,2005,10,213.5,Le Grand-Bornand,Sestrières,Mountain stage
+200511,2005,11,220.5,Sestrières,Alpe d'Huez,Mountain stage
+200512,2005,12,198.5,Le Bourg-d'Oisans,Saint-Étienne,Mountain stage
+200513,2005,13,201.5,Saint-Galmier,Saint-Flour,Mountain stage
+200514,2005,14,236.5,Saint-Flour,Albi,Mountain stage
+200515,2005,15,199.0,Castres,Saint-Gaudens,Flat stage
+200516,2005,16,173.0,Saint-Gaudens,Piau-Engaly,Mountain stage
+200517,2005,17,192.0,Lannemezan,Pau,Mountain stage
+200518,2005,18,200.0,Mourenx,Bordeaux,Flat stage
+200519,2005,19,187.5,Jonzac,Futuroscope,Flat stage
+200520,2005,20,57.0,Futuroscope,Futuroscope,Individual time trial
+200521,2005,21,143.5,Arpajon,Paris,Flat stage
+20041,2004,1,5.6,Dublin,Dublin,Individual time trial
+20042,2004,2,180.5,Dublin,Dublin,Flat stage
+20043,2004,3,205.5,Enniscorthy,Cork,Flat stage
+20044,2004,4,169.0,Roscoff,Lorient,Flat stage
+20045,2004,5,252.0,Plouay,Cholet,Flat stage
+20046,2004,6,228.5,Cholet,Châteauroux,Flat stage
+20047,2004,7,204.5,La Châtre,Brive-la-Gaillarde,Flat stage
+20048,2004,8,58.0,Meyrignac-l'Église,Corrèze,Individual time trial
+20049,2004,9,190.5,Brive-la-Gaillarde,Montauban,Flat stage
+200410,2004,10,210.0,Montauban,Pau,Flat stage
+200411,2004,11,196.5,Pau,Luchon,Mountain stage
+200412,2004,12,170.0,Luchon,Plateau de Beille,Mountain stage
+200413,2004,13,222.0,Tarascon-sur-Ariège,Le Cap d'Agde,Flat stage
+200414,2004,14,196.0,Frontignan la Peyrade,Carpentras,Flat stage
+200415,2004,15,186.5,Valréas,Grenoble,Mountain stage
+200416,2004,16,189.0,Grenoble,Les Deux Alpes,Mountain stage
+200417,2004,17,204.0,Vizille,Albertville,Mountain stage
+200418,2004,18,149.0,Albertville,Aix-les-Bains,Mountain stage
+200419,2004,19,218.5,Aix-les-Bains,Neuchâtel,Mountain stage
+200420,2004,20,242.0,La Chaux-de-Fonds,Autun,Flat stage
+200421,2004,21,52.0,Montceau-les-Mines,Le Creusot,Individual time trial
+200422,2004,22,147.5,Melun,Paris,Flat stage
+20031,2003,1,7.3,Rouen,Rouen,Individual time trial
+20032,2003,2,192.0,Rouen,Forges-les-Eaux,Flat stage
+20033,2003,3,262.0,Saint-Valery-en-Caux,Vire,Flat stage
+20034,2003,4,224.0,Vire,Plumelec,Flat stage
+20035,2003,5,223.0,Plumelec,Le Puy du Fou,Flat stage
+20036,2003,6,261.5,Chantonnay,La Châtre,Flat stage
+20037,2003,7,217.5,Le Blanc,Marennes,Flat stage
+20038,2003,8,194.0,Marennes,Bordeaux,Flat stage
+20039,2003,9,161.5,Sauternes,Pau,Flat stage
+200310,2003,10,182.0,Pau,Loudenvielle,Mountain stage
+200311,2003,11,252.5,Luchon,Andorra Arcalis,Mountain stage
+200312,2003,12,192.0,Andorra Arcalis,Perpignan,Mountain stage
+200313,2003,13,55.0,Saint-Étienne,Saint-Étienne,Individual time trial
+200314,2003,14,203.5,Saint-Étienne,Alpe d'Huez,Mountain stage
+200315,2003,15,148.0,Le Bourg-d'Oisans,Courchevel,Mountain stage
+200316,2003,16,208.5,Courchevel,Morzine,Mountain stage
+200317,2003,17,181.0,Morzine,Fribourg,Mountain stage
+200318,2003,18,218.5,Fribourg,Colmar,Flat stage
+200319,2003,19,175.5,Colmar,Montbéliard,Mountain stage
+200320,2003,20,172.0,Montbéliard,Dijon,Flat stage
+200321,2003,21,63.0,Disneyland Paris,Disneyland Paris,Individual time trial
+200322,2003,22,149.5,Disneyland Paris,Paris,Flat stage
+20021,2002,1,9.4,'s-Hertogenbosch,'s-Hertogenbosch,Individual time trial
+20022,2002,2,209.0,'s-Hertogenbosch,'s-Hertogenbosch,Flat stage
+20023,2002,3,247.5,'s-Hertogenbosch,Wasquehal,Flat stage
+20024,2002,4,195.0,Wasquehal,Nogent-sur-Oise,Flat stage
+20025,2002,5,232.0,Soissons,Lac de Madine,Flat stage
+20026,2002,6,242.0,Lac de Madine,Besançon,Flat stage
+20027,2002,7,207.0,Arc-et-Senans,Aix-les-Bains,Mountain stage
+20028,2002,8,200.0,Chambéry,Les Arcs,Mountain stage
+20029,2002,9,30.5,Bourg-Saint-Maurice,Val d'Isère,Individual time trial
+200210,2002,10,46.0,Le Monêtier-les-Bains,Sestriere,Mountain stage
+200211,2002,11,208.5,Turin,Gap,Mountain stage
+200212,2002,12,202.0,Gap,Valence,Mountain stage
+200213,2002,13,143.5,Valence,Le Puy-en-Velay,Mountain stage
+200214,2002,14,177.0,Le Puy-en-Velay,Super Besse,Mountain stage
+200215,2002,15,186.5,Besse,Tulle,Mountain stage
+200216,2002,16,176.0,Brive-la-Gaillarde,Villeneuve-sur-Lot,Flat stage
+200217,2002,17,199.0,Agen,Hautacam,Mountain stage
+200218,2002,18,262.0,Argelès-Gazost,Pamplona,Mountain stage
+200219,2002,19,154.5,Pamplona,Hendaye,Mountain stage
+200220,2002,20,226.5,Hendaye,Bordeaux,Flat stage
+200221,2002,21,63.5,Bordeaux,Saint-Émilion,Individual time trial
+200222,2002,22,147.5,Palaiseau,Paris,Flat stage
+20011,2001,1,7.3,Saint-Brieuc,Saint-Brieuc,Individual time trial
+20012,2001,2,233.5,Dinan,Lannion,Flat stage
+20013,2001,3,235.5,Perros-Guirec,Vitre,Flat stage
+20014,2001,4,67.0,Mayenne,Alençon,Team time trial
+20015,2001,5,162.0,Alençon,Le Havre,Flat stage
+20016,2001,6,261.0,Fécamp,Dunkirk,Flat stage
+20017,2001,7,202.0,Dunkirk,Charleroi,Flat stage
+20018,2001,8,203.0,Charleroi,Liège,Mountain stage
+20019,2001,9,54.0,Huy,Seraing,Individual time trial
+200110,2001,10,160.0,Le Grand-Bornand,La Plagne,Mountain stage
+200111,2001,11,162.5,La Plagne,L'Alpe d'Huez,Mountain stage
+200112,2001,12,199.0,Le Bourg-d'Oisans,Saint-Étienne,Mountain stage
+200113,2001,13,222.5,Saint-Étienne,Mende,Mountain stage
+200114,2001,14,245.0,Mende,Revel,Flat stage
+200115,2001,15,164.0,Saint-Orens-de-Gameville,Guzet-Neige,Mountain stage
+200116,2001,16,206.0,Saint-Girons,Cauterets,Mountain stage
+200117,2001,17,149.0,Tarbes,Pau,Mountain stage
+200118,2001,18,246.0,Pau,Bordeaux,Flat stage
+200119,2001,19,166.5,Montpon-Ménestérol,Limoges,Flat stage
+200120,2001,20,46.5,Lac de Vassivière,Lac de Vassivière,Individual time trial
+200121,2001,21,155.0,Sainte-Geneviève-des-Bois,Paris,Flat stage
+20001,2000,1,7.2,Lille,Lille,Individual time trial
+20002,2000,2,234.0,Lille,Armentières,Flat stage
+20003,2000,3,203.5,Roubaix,Boulogne-sur-Mer,Flat stage
+20004,2000,4,66.5,Calais,Eurotunnel,Team time trial
+20005,2000,5,204.5,Dover, Brighton,Flat stage
+20006,2000,6,187.0,Portsmouth,Portsmouth,Flat stage
+20007,2000,7,270.5,Cherbourg,Rennes,Flat stage
+20008,2000,8,259.5,Rennes,Futuroscope,Flat stage
+20009,2000,9,218.5,Poitiers,Trélissac,Flat stage
+200010,2000,10,64.0,Périgueux,Bergerac,Individual time trial
+200011,2000,11,160.5,Bergerac,Cahors,Flat stage
+200012,2000,12,263.5,Cahors,Hautacam,Mountain stage
+200013,2000,13,204.5,Lourdes,Luz Ardiden,Mountain stage
+200014,2000,14,223.0,Bagnères-de-Bigorre,Albi,Flat stage
+200015,2000,15,202.0,Castres,Montpellier,Flat stage
+200016,2000,16,231.0,Montpellier,Carpentras,Mountain stage
+200017,2000,17,224.5,Valréas,Alpe d'Huez,Mountain stage
+200018,2000,18,149.0,Le Bourg-d'Oisans,Val Thorens,Mountain stage
+200019,2000,19,174.5,Moutiers,Cluses,Mountain stage
+200020,2000,20,47.5,Cluses,Avoriaz,Mountain stage
+200021,2000,21,208.5,Morzine,Lac Saint-Point,Mountain stage
+200022,2000,22,175.0,Disneyland Paris,Paris,Flat stage
+19991,1999,1,6.8,Le Puy du Fou,Le Puy du Fou,Individual time trial
+19992,1999,2,215.0,Luçon,Les Sables-d'Olonne,Flat stage
+19993,1999,3,227.5,Les Sables-d'Olonne,Vannes,Flat stage
+19994,1999,4,189.5,Vannes,Dinard,Flat stage
+19995,1999,5,81.0,Dinard,Avranches,Team time trial
+19996,1999,6,225.5,Avranches,Évreux,Flat stage
+19997,1999,7,158.0,Évreux,Amiens,Flat stage
+19998,1999,8,199.0,Péronne,Châlons-sur-Marne,Flat stage
+19999,1999,9,184.5,Châlons-sur-Marne,Verdun,Flat stage
+199910,1999,10,59.0,Lac de Madine,Lac de Madine,Individual time trial
+199911,1999,11,203.0,Villard-de-Lans,Serre Chevalier,Mountain stage
+199912,1999,12,179.0,Serre Chevalier,Isola 2000,Mountain stage
+199913,1999,13,286.5,Isola,Marseille,Flat stage
+199914,1999,14,181.5,Marseille,Montpellier,Flat stage
+199915,1999,15,223.0,Montpellier,Perpignan,Flat stage
+199916,1999,16,231.5,Perpignan,Pal,Mountain stage
+199917,1999,17,230.0,Andorra,Saint-Lary-Soulan Pla d'Adet,Mountain stage
+199918,1999,18,190.0,Tarbes,Pau,Mountain stage
+199919,1999,19,199.5,Orthez,Bordeaux,Flat stage
+199920,1999,20,48.0,Brétigny-sur-Orge,Montlhéry,Individual time trial
+199921,1999,21,196.5,Viry-Châtillon,Paris,Flat stage
+19981,1998,1,8.0,San Sebastián,San Sebastián,Individual time trial
+19982,1998,2,194.5,San Sebastián,San Sebastián,Mountain stage
+19983,1998,3,255.0,San Sebastián,Pau,Mountain stage
+19984,1998,4,210.0,Pau,Bordeaux,Flat stage
+19985,1998,5,63.5,Libourne,Libourne,Team time trial
+19986,1998,6,196.0,Nogent-sur-Oise,Wasquehal,Flat stage
+19987,1998,7,167.0,Roubaix,Brussels,Flat stage
+19988,1998,8,196.5,Brussels,Valkenburg,Flat stage
+19989,1998,9,206.5,Valkenburg,Koblenz,Flat stage
+199810,1998,10,65.0,Luxembourg City,Luxembourg City,Individual time trial
+199811,1998,11,217.0,Luxembourg City,Strasbourg,Flat stage
+199812,1998,12,249.5,Strasbourg,Mulhouse,Mountain stage
+199813,1998,13,267.5,Dole,St Gervais,Mountain stage
+199814,1998,14,254.5,St Gervais,Sestriere,Mountain stage
+199815,1998,15,186.5,Sestriere,Alpe d'Huez,Mountain stage
+199816,1998,16,198.0,Le Bourg-d'Oisans,Saint-Étienne,Mountain stage
+199817,1998,17,212.0,Saint-Étienne,La Bourboule,Mountain stage
+199818,1998,18,189.0,La Bourboule,Montluçon,Flat stage
+199819,1998,19,212.0,Montluçon,Tours,Flat stage
+199820,1998,20,64.0,Tours,Blois,Individual time trial
+199821,1998,21,222.0,Blois,Nanterre,Flat stage
+199822,1998,22,141.0,La Défense,Paris,Flat stage
+19971,1997,1,5.4,Lyon,Lyon,Individual time trial
+19972,1997,2,114.5,Lyon,Lyon,Flat stage
+19973,1997,3,36.5,Bron,Chassieu,Team time trial
+19974,1997,4,210.5,Villeurbanne,Dijon,Flat stage
+19975,1997,5,286.0,Dijon,Reims,Flat stage
+19976,1997,6,149.5,Reims,Valenciennes,Flat stage
+19977,1997,7,259.0,Arras,Le Havre,Flat stage
+19978,1997,8,167.0,Le Havre,Argentan,Flat stage
+19979,1997,9,73.0,Argentan,Alençon,Individual time trial
+199710,1997,10,161.0,Alençon,Rennes,Flat stage
+199711,1997,11,207.5,Rennes,Quimper,Flat stage
+199712,1997,12,246.0,Quimper,Saint-Herblain,Flat stage
+199713,1997,13,192.0,Pau,Jaca,Mountain stage
+199714,1997,14,232.0,Jaca,Val-Louron,Mountain stage
+199715,1997,15,172.5,St Gaudens,Castres,Flat stage
+199716,1997,16,235.0,Albi,Ales,Mountain stage
+199717,1997,17,215.0,Alès,Gap,Flat stage
+199718,1997,18,125.0,Gap,Alpe d'Huez,Mountain stage
+199719,1997,19,255.0,Le Bourg-d'Oisans,Morzine,Mountain stage
+199720,1997,20,177.0,Morzine,Aix-les-Bains,Mountain stage
+199721,1997,21,160.0,Aix-les-Bains,Mâcon,Mountain stage
+199722,1997,22,57.0,Lugny,Mâcon,Individual time trial
+199723,1997,23,178.0,Melun,Paris,Flat stage
+19961,1996,1,6.3,Futuroscope,Futuroscope,Individual time trial
+19962,1996,2,138.5,Futuroscope,Futuroscope,Flat stage
+19963,1996,3,44.5,Futuroscope,Futuroscope,Team time trial
+19964,1996,4,233.0,Poitiers,Nantes,Flat stage
+19965,1996,5,203.0,Nantes,Mont Saint-Michel,Flat stage
+19966,1996,6,301.0,Avranches,Rouen,Flat stage
+19967,1996,7,202.5,Sarrebourg,Vittel,Flat stage
+19968,1996,8,61.5,Vittel,Épinal,Individual time trial
+19969,1996,9,181.5,Épinal,Besançon,Flat stage
+199610,1996,10,196.0,Besançon,Geneva,Mountain stage
+199611,1996,11,118.5,Geneva,Saint-Gervais,Mountain stage
+199612,1996,12,182.5,Saint-Gervais,Alpe d'Huez,Mountain stage
+199613,1996,13,33.5,Fontaine,Villard-de-Lans,Mountain stage
+199614,1996,14,149.0,Villard-de-Lans,Saint-Étienne,Mountain stage
+199615,1996,15,205.0,Le Puy-en-Velay,Millau,Mountain stage
+199616,1996,16,170.0,Millau,Revel,Flat stage
+199617,1996,17,215.0,Blagnac,Luz Ardiden,Mountain stage
+199618,1996,18,150.0,Lourdes,Pau,Mountain stage
+199619,1996,19,202.0,Pau,Bordeaux,Flat stage
+199620,1996,20,182.5,Castillon-la-Bataille,Limoges,Flat stage
+199621,1996,21,45.5,Lac de Vassivière,Lac de Vassivière,Individual time trial
+199622,1996,22,182.5,Brétigny-sur-Orge,Paris,Flat stage
+19951,1995,1,7.8,Luxembourg City,Luxembourg City,Individual time trial
+19952,1995,2,135.5,Luxembourg City,Luxembourg City,Flat stage
+19953,1995,3,46.0,Luxembourg City,Luxembourg City,Team time trial
+19954,1995,4,241.0,Luxembourg City,Spa,Flat stage
+19955,1995,5,255.0,Liège,Wasquehal,Flat stage
+19956,1995,6,73.0,Dinard,Rennes,Individual time trial
+19957,1995,7,259.0,Rennes,Futuroscope,Flat stage
+19958,1995,8,258.5,Poitiers,Bordeaux,Flat stage
+19959,1995,9,157.0,Labastide-d'Armagnac,Pau,Flat stage
+199510,1995,10,147.0,Pau,Cauterets,Mountain stage
+199511,1995,11,136.0,Cauterets,Superbagnères,Mountain stage
+199512,1995,12,158.5,Luchon,Blagnac,Flat stage
+199513,1995,13,242.0,Toulouse,Montpellier,Flat stage
+199514,1995,14,179.0,Montpellier,Marseille,Flat stage
+199515,1995,15,240.0,Marseille,Gap,Mountain stage
+199516,1995,16,39.0,Gap,Orcières-Merlette,Mountain stage
+199517,1995,17,175.0,Gap,Briançon,Mountain stage
+199518,1995,18,165.0,Briançon,Alpe d'Huez,Mountain stage
+199519,1995,19,91.5,Le Bourg-d'Oisans,Villard-de-Lans,Mountain stage
+199520,1995,20,125.0,Villard-de-Lans,Aix-les-Bains,Mountain stage
+199521,1995,21,130.0,Aix-les-Bains,L'Isle-d'Abeau,Flat stage
+199522,1995,22,24.5,Versailles,Paris,Individual time trial
+19941,1994,1,1.0,Pornichet,La Baule,Individual time trial
+19942,1994,2,92.0,Pontchâteau,Machecoul,Flat stage
+19943,1994,3,48.0,La Haie-Fouassière,Ancenis,Team time trial
+19944,1994,4,213.0,Nantes,Le Mans,Flat stage
+19945,1994,5,158.0,Le Mans,Évreux,Flat stage
+19946,1994,6,148.0,Neufchâtel-en-Bray,Liévin,Flat stage
+19947,1994,7,52.0,Liévin,Wasquehal,Individual time trial
+19948,1994,8,225.0,Wasquehal,Reims,Flat stage
+19949,1994,9,219.0,Reims,Nancy,Flat stage
+199410,1994,10,161.0,Nancy,Strasbourg,Mountain stage
+199411,1994,11,149.0,Belfort,Besançon,Mountain stage
+199412,1994,12,232.0,Besançon,Morzine,Mountain stage
+199413,1994,13,227.0,Morzine,Alpe d'Huez,Mountain stage
+199414,1994,14,38.0,Grenoble,Villard-de-Lans,Mountain stage
+199415,1994,15,163.0,Blagnac,Guzet-Neige,Mountain stage
+199416,1994,16,187.0,Saint-Girons,Luz Ardiden,Mountain stage
+199417,1994,17,35.0,Luz Ardiden,Pau,Flat stage
+199418,1994,18,198.0,Pau,Bordeaux,Flat stage
+199419,1994,19,94.0,Ruelle-sur-Touvre,Limoges,Flat stage
+199420,1994,20,188.0,Limoges,Puy de Dôme,Mountain stage
+199421,1994,21,223.0,Clermont-Ferrand,Chalon-sur-Saône,Flat stage
+199422,1994,22,46.0,Santenay,Santenay,Individual time trial
+199423,1994,23,173.0,Nemours,Paris,Flat stage
+19931,1993,1,6.0,West Berlin,West Berlin,Individual time trial
+19932,1993,2,105.0,West Berlin,West Berlin,Flat stage
+19933,1993,3,41.0,West Berlin,West Berlin,Team time trial
+19934,1993,4,219.0,Karlsruhe,Stuttgart,Flat stage
+19935,1993,5,79.0,Stuttgart,Pforzheim,Flat stage
+19936,1993,6,112.0,Pforzheim,Strasbourg,Flat stage
+19937,1993,7,169.0,Strasbourg,Épinal,Flat stage
+19938,1993,8,211.0,Épinal,Troyes,Flat stage
+19939,1993,9,206.0,Troyes,Épinay-sous-Sénart,Flat stage
+199310,1993,10,260.0,Orléans,Renazé,Flat stage
+199311,1993,11,87.0,Saumur,Futuroscope,Individual time trial
+199312,1993,12,206.0,Poitiers,Chaumeil,Mountain stage
+199313,1993,13,228.0,Brive,Bordeaux,Flat stage
+199314,1993,14,219.0,Bayonne,Pau,Mountain stage
+199315,1993,15,166.0,Pau,Luz Ardiden,Mountain stage
+199316,1993,16,164.0,Tarbes,Blagnac,Flat stage
+199317,1993,17,216.0,Blagnac,Millau,Mountain stage
+199318,1993,18,239.0,Millau,Avignon,Mountain stage
+199319,1993,19,37.0,Carpentras,Mont Ventoux,Mountain stage
+199320,1993,20,185.0,Valréas,Villard-de-Lans,Mountain stage
+199321,1993,21,201.0,Villard-de-Lans,Alpe d'Huez,Mountain stage
+199322,1993,22,185.0,Le Bourg-d'Oisans,La Plagne,Mountain stage
+199323,1993,23,186.0,La Plagne,Morzine,Mountain stage
+19921,1992,1,4.6,Boulogne-Billancourt,Boulogne-Billancourt,Individual time trial
+19922,1992,2,85.0,Nanterre,Sceaux,Flat stage
+19923,1992,3,56.0,Meudon,Saint-Quentin-en-Yvelines,Team time trial
+19924,1992,4,214.0,Levallois-Perret,Liévin,Flat stage
+19925,1992,5,243.0,Liévin,Évreux,Flat stage
+19926,1992,6,124.5,Evreux,Villers-sur-Mer,Flat stage
+19927,1992,7,200.0,Villers-sur-Mer,Cherbourg,Flat stage
+19928,1992,8,201.0,Cherbourg,Saint-Hilaire-du-Harcouët,Flat stage
+19929,1992,9,204.0,Saint-Hilaire-du-Harcouët,Nantes,Flat stage
+199210,1992,10,61.5,Nantes,Nantes,Individual time trial
+199211,1992,11,183.0,Nantes,Futuroscope,Flat stage
+199212,1992,12,258.3,Futuroscope,Bordeaux,Flat stage
+199213,1992,13,217.5,Bayonne,Pau,Mountain stage
+199214,1992,14,186.0,Pau,Superbagnères,Mountain stage
+199215,1992,15,154.0,Superbagnères,Blagnac,Flat stage
+199216,1992,16,225.5,Carcassonne,Nîmes,Flat stage
+199217,1992,17,246.5,Nîmes,Gap,Flat stage
+199218,1992,18,190.0,Gap,Serre Chevalier,Mountain stage
+199219,1992,19,162.5,Briançon,Alpe d'Huez,Mountain stage
+199220,1992,20,179.5,Villard-de-Lans,Saint-Étienne,Flat stage
+199221,1992,21,58.0,Saint-Étienne,Saint-Étienne,Individual time trial
+199222,1992,22,190.0,Saint-Étienne,Puy de Dôme,Flat stage
+199223,1992,23,194.0,Clermont-Ferrand,Nevers,Flat stage
+19911,1991,1,6.0,Plumelec,Plumelec,Individual time trial
+19912,1991,2,256.0,Vannes,Lanester,Flat stage
+19913,1991,3,242.0,Lorient,Vitre,Flat stage
+19914,1991,4,73.0,Vitre,Fougères,Team time trial
+19915,1991,5,239.0,Fougères,Pont-Audemer,Flat stage
+19916,1991,6,224.0,Neufchâtel-en-Bray,Roubaix,Flat stage
+19917,1991,7,222.0,Roubaix,Reims,Flat stage
+19918,1991,8,217.0,Reims,Nancy,Flat stage
+19919,1991,9,75.0,Sarrebourg,Strasbourg,Individual time trial
+199110,1991,10,174.0,Strasbourg,Épinal,Mountain stage
+199111,1991,11,204.0,Épinal,Pontarlier,Mountain stage
+199112,1991,12,195.0,Pontarlier,Morzine Avoriaz,Mountain stage
+199113,1991,13,269.0,Morzine Avoriaz,Lans-en-Vercors,Mountain stage
+199114,1991,14,32.0,Villard-de-Lans,Villard-de-Lans,Individual time trial
+199115,1991,15,179.0,Autrans,Saint-Étienne,Mountain stage
+199116,1991,16,238.0,Saint-Étienne,Aurillac,Flat stage
+199117,1991,17,247.0,Aurillac,Toulouse,Flat stage
+199118,1991,18,209.0,Toulouse,Luz Ardiden,Mountain stage
+199120,1991,20,203.0,Pau,Bordeaux,Flat stage
+199121,1991,21,225.0,Montpon-Ménestérol,Limoges,Flat stage
+199122,1991,22,46.0,Lac de Vassivière,Lac de Vassivière,Individual time trial
+199123,1991,23,196.0,Orléans,Paris,Flat stage
+19901,1990,1,5.0,Montreuil,Noisy-le-Sec,Individual time trial
+19902,1990,2,149.0,Bondy,Saint-Denis,Flat stage
+19903,1990,3,249.0,Bobigny,Louvroil,Flat stage
+19904,1990,4,51.0,Louvroil,Valenciennes,Team time trial
+19905,1990,5,83.0,Valenciennes,Béthune,Flat stage
+19906,1990,6,207.0,Béthune,Cergy-Pontoise,Flat stage
+19907,1990,7,202.0,Cergy-Pontoise,Alençon,Flat stage
+19908,1990,8,67.0,Alençon,Le Mans,Individual time trial
+19909,1990,9,192.0,Le Mans,Nantes,Flat stage
+199010,1990,10,338.0,Nantes,Bordeaux,Flat stage
+199011,1990,11,198.0,Langon,Pau,Flat stage
+199012,1990,12,227.0,Pau,Guzet-Neige,Mountain stage
+199013,1990,13,111.0,Saint-Girons,Blagnac,Flat stage
+199014,1990,14,220.0,Blagnac,Rodez,Flat stage
+199015,1990,15,228.0,Rodez,Domaine du Rouret,Mountain stage
+199016,1990,16,241.0,Domaine du Rouret,Grenoble,Mountain stage
+199017,1990,17,22.0,Les Échelles,La Ruchère,Individual time trial
+199018,1990,18,151.0,Grenoble,Alpe d'Huez,Mountain stage
+199019,1990,19,185.0,Le Bourg-d'Oisans,La Plagne,Mountain stage
+199020,1990,20,186.0,La Plagne,Morzine,Mountain stage
+199021,1990,21,141.0,Morzine,Crans-Montana,Mountain stage
+199022,1990,22,320.0,Crans-Montana,Villefranche-sur-Saône,Mountain stage
+199023,1990,23,51.0,Villié-Morgon,Villefranche-sur-Saône,Individual time trial
+19891,1989,1,6.0,Fontenay-sous-Bois,Fontenay-sous-Bois,Individual time trial
+19892,1989,2,163.0,Nogent-sur-Marne,Créteil,Flat stage
+19893,1989,3,100.0,Soissons,Fontaine-au-Pire,Team time trial
+19894,1989,4,152.0,Valenciennes,Roubaix,Mountain stage
+19895,1989,5,300.0,Roubaix,Le Havre,Flat stage
+19896,1989,6,257.0,Le Havre,Le Mans,Flat stage
+19897,1989,7,58.0,Châteaubriant,Nantes,Individual time trial
+19898,1989,8,216.0,Nantes,Île d'Oléron,Flat stage
+19899,1989,9,222.0,La Rochelle,Bordeaux,Flat stage
+198910,1989,10,207.0,Bordeaux,Pau,Flat stage
+198911,1989,11,201.0,Pau,Bagnères-de-Luchon,Mountain stage
+198912,1989,12,177.0,Bagnères-de-Luchon,Fleurance,Flat stage
+198913,1989,13,261.0,Fleurance,Roquefort-sur-Soulzon,Flat stage
+198914,1989,14,210.0,Roquefort-sur-Soulzon,Aurillac,Mountain stage
+198915,1989,15,149.0,Aurillac,Issoire,Mountain stage
+198916,1989,16,16.0,Clermont-Ferrand,Puy de Dôme,Individual time trial
+198917,1989,17,144.0,Issoire,Saint-Étienne,Mountain stage
+198918,1989,18,223.0,La Tour-du-Pin,Alpe d'Huez,Mountain stage
+198919,1989,19,247.0,Le Bourg-d'Oisans,Morzine,Mountain stage
+198920,1989,20,15.0,Morzine,Avoriaz,Individual time trial
+198921,1989,21,291.0,Morzine,Dijon,Flat stage
+198922,1989,22,50.0,Dijon,Dijon,Individual time trial
+198923,1989,23,195.0,Alfortville,Paris,Flat stage
+19881,1988,1,7.0,Basel,Basel,Individual time trial
+19882,1988,2,207.0,Basel,Möhlin,Mountain stage
+19883,1988,3,250.0,Basel,Nancy,Flat stage
+19884,1988,4,134.0,Nancy,Longwy,Flat stage
+19885,1988,5,219.0,Beauraing,Mouscron,Flat stage
+19886,1988,6,73.0,Orchies,Fontaine-au-Pire,Team time trial
+19887,1988,7,233.0,Lille,Lille,Flat stage
+19888,1988,8,235.0,Cancale,Concarneau,Flat stage
+19889,1988,9,201.0,Concarneau,Châteaulin,Flat stage
+198811,1988,11,147.0,Saintes,Bordeaux,Flat stage
+198812,1988,12,57.0,Valence d'Agen,Valence d'Agen,Individual time trial
+198813,1988,13,249.0,Fleurance,Pau,Mountain stage
+198814,1988,14,122.0,Pau,Saint-Lary-Soulan Pla d'Adet,Mountain stage
+198815,1988,15,33.0,Martigues,Martigues,Individual time trial
+198816,1988,16,208.0,Manosque,Orcières-Merlette,Mountain stage
+198817,1988,17,123.0,Orcières-Merlette,Alpe d'Huez,Mountain stage
+198818,1988,18,251.0,Le Bourg-d'Oisans,Morzine,Mountain stage
+198819,1988,19,233.0,Morzine,Saint-Priest,Flat stage
+198820,1988,20,48.0,Saint-Priest,Saint-Priest,Individual time trial
+198821,1988,21,161.0,Sens,Aulnay-sous-Bois,Flat stage
+198822,1988,22,187.0,Fontenay-sous-Bois,Paris,Flat stage
+19871,1987,1,6.0,Nice,Nice,Individual time trial
+19873,1987,3,254.0,Nice,Martigues,Flat stage
+19874,1987,4,232.0,Martigues,Narbonne,Flat stage
+19875,1987,5,77.0,Narbonne,Carcassonne,Team time trial
+19876,1987,6,117.0,Saint-Gaudens,Pla d'Adet,Mountain stage
+19877,1987,7,27.0,Nay,Pau,Individual time trial
+19878,1987,8,227.0,Pau,Bordeaux,Flat stage
+19879,1987,9,182.0,Rochefort,Nantes,Flat stage
+198710,1987,10,197.0,Nantes,Le Mans,Flat stage
+198711,1987,11,264.0,Le Mans,Aulnay-sous-Bois,Flat stage
+198712,1987,12,246.0,Compiègne,Roubaix,Flat stage
+198714,1987,14,157.0,Beringen,Hasselt,Flat stage
+198715,1987,15,38.0,Mulhouse,Mulhouse,Individual time trial
+198716,1987,16,231.0,Besançon,Thonon-les-Bains,Mountain stage
+198717,1987,17,200.0,Thonon-les-Bains,Morzine,Mountain stage
+198718,1987,18,230.0,Morzine,Alpe d'Huez,Mountain stage
+198719,1987,19,134.0,Le Bourg-d'Oisans,Le Pleynet,Mountain stage
+198720,1987,20,118.0,Veurey,Saint-Priest,Flat stage
+198721,1987,21,46.0,Saint-Priest,Saint-Priest,Individual time trial
+198722,1987,22,207.0,Auxerre,Fontenay-sous-Bois,Flat stage
+198723,1987,23,187.0,Fontenay-sous-Bois,Paris,Flat stage
+19861,1986,1,8.0,Frankfurt,Frankfurt,Individual time trial
+19863,1986,3,276.0,Frankfurt,Metz,Flat stage
+19864,1986,4,282.0,Metz,Liège,Flat stage
+19865,1986,5,35.0,Spa,Spa,Individual time trial
+19866,1986,6,249.0,Liège,Lille,Flat stage
+19867,1986,7,216.0,Lille,Compiègne,Flat stage
+19869,1986,9,164.0,Flers,Saint-Malo,Flat stage
+198610,1986,10,205.0,Saint-Malo,Nantes,Flat stage
+198611,1986,11,163.0,Rochefort,Bordeaux,Flat stage
+198612,1986,12,52.0,Damazan,Laplume,Individual time trial
+198613,1986,13,194.0,Agen,Pau,Flat stage
+198614,1986,14,200.0,Pau,Bagnères-de-Luchon,Mountain stage
+198615,1986,15,189.0,Lézignan-Corbières,Montpellier,Flat stage
+198616,1986,16,160.0,Montpellier,Martigues,Flat stage
+198617,1986,17,209.0,Trets,Pra-Loup,Mountain stage
+198618,1986,18,242.0,Serre Chevalier,Morzine,Mountain stage
+198619,1986,19,199.0,Morzine,Prapoutel,Mountain stage
+198620,1986,20,140.0,Voreppe,Saint-Étienne,Mountain stage
+198621,1986,21,34.0,Saint-Étienne,Saint-Étienne,Individual time trial
+198622,1986,22,208.0,Auxerre,Fontenay-sous-Bois,Flat stage
+198623,1986,23,186.0,Fontenay-sous-Bois,Paris,Flat stage
+19851,1985,1,5.0,Fleurance,Fleurance,Individual time trial
+19852,1985,2,225.0,Fleurance,Luchon,Mountain stage
+19853,1985,3,24.0,Luchon,Superbagnères,Individual time trial
+19854,1985,4,180.0,Luchon,Pau,Mountain stage
+19855,1985,5,87.0,Captieux,Bordeaux,Team time trial
+19856,1985,6,145.0,Neuville-de-Poitou,Angers,Flat stage
+19857,1985,7,239.0,Angers,Saint-Brieuc,Flat stage
+19858,1985,8,158.0,Saint-Hilaire-du-Harcouët,Deauville,Flat stage
+19859,1985,9,90.0,Deauville,Le Havre,Team time trial
+198510,1985,10,201.0,Amiens,Roubaix,Flat stage
+198511,1985,11,124.0,Roubaix,Brussels,Flat stage
+198512,1985,12,33.0,Brussels,Brussels,Individual time trial
+198513,1985,13,193.0,Rochefort,Metz,Flat stage
+198514,1985,14,202.0,Metz,Ballon d'Alsace,Mountain stage
+198515,1985,15,248.0,Belfort,Évian-les-Bains,Flat stage
+198516,1985,16,54.0,Évian-les-Bains,Morzine Avoriaz,Individual time trial
+198517,1985,17,201.0,Morzine Avoriaz,Les Menuires,Mountain stage
+198518,1985,18,167.0,Les Menuires,Alpe d'Huez,Mountain stage
+198519,1985,19,119.0,Alpe d'Huez,Alpe d'Huez,Mountain stage
+198520,1985,20,162.0,Alpe d'Huez,Saint-Priest,Flat stage
+198521,1985,21,240.0,Saint-Priest,Dijon,Flat stage
+198522,1985,22,49.0,Dijon,Dijon,Individual time trial
+198523,1985,23,189.0,Dijon,Auxerre,Flat stage
+19841,1984,1,5.0,Leiden,Leiden,Individual time trial
+19843,1984,3,199.0,Brussels,Saint-Amand-les-Eaux,Flat stage
+19844,1984,4,244.0,Saint-Amand-les-Eaux,Saint-Germain-en-Laye,Flat stage
+19845,1984,5,153.0,Évreux,Caen,Team time trial
+19846,1984,6,244.0,Caen,Mazé-Montgeoffroy,Flat stage
+19847,1984,7,162.0,Mazé-Montgeoffroy,Poitiers,Flat stage
+19848,1984,8,242.0,Poitiers,Bordeaux,Flat stage
+19849,1984,9,59.0,Saint-Émilion,Sainte-Foy-la-Grande,Individual time trial
+198410,1984,10,233.0,Bordeaux,Biarritz,Flat stage
+198411,1984,11,192.0,Biarritz,Pau,Mountain stage
+198412,1984,12,161.0,Pau,Saint-Lary-Soulan Pla d'Adet,Mountain stage
+198414,1984,14,221.0,Figeac,Super Besse,Mountain stage
+198415,1984,15,52.0,Besse-en-Chandesse,Puy de Dôme,Individual time trial
+198416,1984,16,196.0,Saint-Dier-d'Auvergne,Saint-Étienne,Mountain stage
+198417,1984,17,241.0,St-Étienne,Alpe d'Huez,Mountain stage
+198418,1984,18,225.0,Grenoble,Morzine,Mountain stage
+198419,1984,19,137.0,Morzine,Lausanne,Flat stage
+198420,1984,20,182.0,Lausanne,Belfort,Flat stage
+198421,1984,21,72.0,Metz,Nancy,Individual time trial
+198422,1984,22,207.0,Epernay,Senlis,Flat stage
+198423,1984,23,162.0,Saint Germain en Laye,Paris,Flat stage
+19831,1983,1,5.0,Fleurance,Fleurance,Individual time trial
+19832,1983,2,237.0,Fleurance,Auch,Flat stage
+19833,1983,3,253.0,Auch,Pau,Mountain stage
+19834,1983,4,248.0,Oloron-Sainte-Marie,Vitoria-Gasteiz,Mountain stage
+19835,1983,5,256.0,Vitoria-Gasteiz,Seignosse le Penon,Mountain stage
+19837,1983,7,225.0,Bordeaux,Limoges,Flat stage
+19839,1983,9,247.0,Angers,Lorient,Flat stage
+198310,1983,10,187.0,Lorient,Rennes,Mountain stage
+198311,1983,11,174.0,Bagnoles-de-l'Orne,Rouen,Flat stage
+198312,1983,12,242.0,Rouen,Roubaix,Flat stage
+198313,1983,13,193.0,Roubaix,Charleroi,Mountain stage
+198315,1983,15,230.0,Besançon,Thonon-les-Bains,Mountain stage
+198317,1983,17,121.0,Morzine,Chamonix,Mountain stage
+198318,1983,18,185.0,Chamonix,Alpe d'Huez,Mountain stage
+198319,1983,19,199.0,Rossignol Voiron,Saint-Étienne,Mountain stage
+198320,1983,20,172.0,Saint-Trivier-sur-Moignans,Dijon,Flat stage
+198321,1983,21,50.0,Dijon,Dijon,Individual time trial
+198322,1983,22,142.0,Montereau-Fault-Yonne,Versailles,Flat stage
+19821,1982,1,8.0,Saint-Jean-de-Monts,Saint-Jean-de-Monts,Individual time trial
+19822,1982,2,173.0,Saint-Jean-de-Monts,Angers,Flat stage
+19823,1982,3,237.0,Angers,Caen,Flat stage
+19824,1982,4,37.0,Le Touquet-Paris-Plage,Le Touquet-Paris-Plage,Individual time trial
+19825,1982,5,258.0,Le Touquet-Paris-Plage,Bornem,Flat stage
+19827,1982,7,209.0,Bastogne,Nancy,Flat stage
+19828,1982,8,206.0,Nancy,Mulhouse,Flat stage
+19829,1982,9,220.0,Valentigney,Divonne-les-Bains,Flat stage
+198210,1982,10,258.0,Divonne-les-Bains,Alpe d'Huez,Mountain stage
+198211,1982,11,166.0,Le Bourg-d'Oisans,Montgenèvre,Mountain stage
+198212,1982,12,224.0,Montgenèvre,Manosque,Mountain stage
+198213,1982,13,205.0,Le Barcarès,Pyrénées 2000,Mountain stage
+198214,1982,14,188.0,Font-Romeu-Odeillo-Via,Saint-Gaudens,Mountain stage
+198215,1982,15,139.0,Saint-Gaudens,Saint-Lary-Soulan,Mountain stage
+198216,1982,16,195.0,Saint-Lary-Soulan,Pau,Mountain stage
+198217,1982,17,152.0,Pau,Fleurance,Flat stage
+198218,1982,18,39.0,Fleurance,Auch,Individual time trial
+198220,1982,20,220.0,Sainte-Foy-la-Grande,Tulle,Flat stage
+198221,1982,21,220.0,Tulle,Puy de Dôme,Mountain stage
+198222,1982,22,145.0,Montargis,Versailles,Flat stage
+19811,1981,1,6.0,Nice,Nice,Individual time trial
+19813,1981,3,254.0,Nice,Martigues,Flat stage
+19814,1981,4,232.0,Martigues,Narbonne,Flat stage
+19815,1981,5,77.0,Narbonne,Carcassonne,Team time trial
+19816,1981,6,117.0,Saint-Gaudens,Pla d'Adet,Mountain stage
+19817,1981,7,27.0,Nay,Pau,Individual time trial
+19818,1981,8,227.0,Pau,Bordeaux,Flat stage
+19819,1981,9,182.0,Rochefort,Nantes,Flat stage
+198110,1981,10,197.0,Nantes,Le Mans,Flat stage
+198111,1981,11,264.0,Le Mans,Aulnay-sous-Bois,Flat stage
+198112,1981,12,246.0,Compiègne,Roubaix,Flat stage
+198114,1981,14,157.0,Beringen,Hasselt,Flat stage
+198115,1981,15,38.0,Mulhouse,Mulhouse,Individual time trial
+198116,1981,16,231.0,Besançon,Thonon-les-Bains,Mountain stage
+198117,1981,17,200.0,Thonon-les-Bains,Morzine,Mountain stage
+198118,1981,18,230.0,Morzine,Alpe d'Huez,Mountain stage
+198119,1981,19,134.0,Le Bourg-d'Oisans,Le Pleynet,Mountain stage
+198120,1981,20,118.0,Veurey,Saint-Priest,Flat stage
+198121,1981,21,46.0,Saint-Priest,Saint-Priest,Individual time trial
+198122,1981,22,207.0,Auxerre,Fontenay-sous-Bois,Flat stage
+198123,1981,23,187.0,Fontenay-sous-Bois,Paris,Flat stage
+19801,1980,1,8.0,Frankfurt,Frankfurt,Individual time trial
+19803,1980,3,276.0,Frankfurt,Metz,Flat stage
+19804,1980,4,282.0,Metz,Liège,Flat stage
+19805,1980,5,35.0,Spa,Spa,Individual time trial
+19806,1980,6,249.0,Liège,Lille,Flat stage
+19807,1980,7,216.0,Lille,Compiègne,Flat stage
+19809,1980,9,164.0,Flers,Saint-Malo,Flat stage
+198010,1980,10,205.0,Saint-Malo,Nantes,Flat stage
+198011,1980,11,163.0,Rochefort,Bordeaux,Flat stage
+198012,1980,12,52.0,Damazan,Laplume,Individual time trial
+198013,1980,13,194.0,Agen,Pau,Flat stage
+198014,1980,14,200.0,Pau,Bagnères-de-Luchon,Mountain stage
+198015,1980,15,189.0,Lézignan-Corbières,Montpellier,Flat stage
+198016,1980,16,160.0,Montpellier,Martigues,Flat stage
+198017,1980,17,209.0,Trets,Pra-Loup,Mountain stage
+198018,1980,18,242.0,Serre Chevalier,Morzine,Mountain stage
+198019,1980,19,199.0,Morzine,Prapoutel,Mountain stage
+198020,1980,20,140.0,Voreppe,Saint-Étienne,Mountain stage
+198021,1980,21,34.0,Saint-Étienne,Saint-Étienne,Individual time trial
+198022,1980,22,208.0,Auxerre,Fontenay-sous-Bois,Flat stage
+198023,1980,23,186.0,Fontenay-sous-Bois,Paris,Flat stage
+19791,1979,1,5.0,Fleurance,Fleurance,Individual time trial
+19792,1979,2,225.0,Fleurance,Luchon,Mountain stage
+19793,1979,3,24.0,Luchon,Superbagnères,Individual time trial
+19794,1979,4,180.0,Luchon,Pau,Mountain stage
+19795,1979,5,87.0,Captieux,Bordeaux,Team time trial
+19796,1979,6,145.0,Neuville-de-Poitou,Angers,Flat stage
+19797,1979,7,239.0,Angers,Saint-Brieuc,Flat stage
+19798,1979,8,158.0,Saint-Hilaire-du-Harcouët,Deauville,Flat stage
+19799,1979,9,90.0,Deauville,Le Havre,Team time trial
+197910,1979,10,201.0,Amiens,Roubaix,Flat stage
+197911,1979,11,124.0,Roubaix,Brussels,Flat stage
+197912,1979,12,33.0,Brussels,Brussels,Individual time trial
+197913,1979,13,193.0,Rochefort,Metz,Flat stage
+197914,1979,14,202.0,Metz,Ballon d'Alsace,Mountain stage
+197915,1979,15,248.0,Belfort,Évian-les-Bains,Flat stage
+197916,1979,16,54.0,Évian-les-Bains,Morzine Avoriaz,Individual time trial
+197917,1979,17,201.0,Morzine Avoriaz,Les Menuires,Mountain stage
+197918,1979,18,167.0,Les Menuires,Alpe d'Huez,Mountain stage
+197919,1979,19,119.0,Alpe d'Huez,Alpe d'Huez,Mountain stage
+197920,1979,20,162.0,Alpe d'Huez,Saint-Priest,Flat stage
+197921,1979,21,240.0,Saint-Priest,Dijon,Flat stage
+197922,1979,22,49.0,Dijon,Dijon,Individual time trial
+197923,1979,23,189.0,Dijon,Auxerre,Flat stage
+19781,1978,1,5.0,Leiden,Leiden,Individual time trial
+19783,1978,3,199.0,Brussels,Saint-Amand-les-Eaux,Flat stage
+19784,1978,4,244.0,Saint-Amand-les-Eaux,Saint-Germain-en-Laye,Flat stage
+19785,1978,5,153.0,Évreux,Caen,Team time trial
+19786,1978,6,244.0,Caen,Mazé-Montgeoffroy,Flat stage
+19787,1978,7,162.0,Mazé-Montgeoffroy,Poitiers,Flat stage
+19788,1978,8,242.0,Poitiers,Bordeaux,Flat stage
+19789,1978,9,59.0,Saint-Émilion,Sainte-Foy-la-Grande,Individual time trial
+197810,1978,10,233.0,Bordeaux,Biarritz,Flat stage
+197811,1978,11,192.0,Biarritz,Pau,Mountain stage
+197812,1978,12,161.0,Pau,Saint-Lary-Soulan Pla d'Adet,Mountain stage
+197814,1978,14,221.0,Figeac,Super Besse,Mountain stage
+197815,1978,15,52.0,Besse-en-Chandesse,Puy de Dôme,Individual time trial
+197816,1978,16,196.0,Saint-Dier-d'Auvergne,Saint-Étienne,Mountain stage
+197817,1978,17,241.0,St-Étienne,Alpe d'Huez,Mountain stage
+197818,1978,18,225.0,Grenoble,Morzine,Mountain stage
+197819,1978,19,137.0,Morzine,Lausanne,Flat stage
+197820,1978,20,182.0,Lausanne,Belfort,Flat stage
+197821,1978,21,72.0,Metz,Nancy,Individual time trial
+197822,1978,22,207.0,Epernay,Senlis,Flat stage
+197823,1978,23,162.0,Saint Germain en Laye,Paris,Flat stage
+19771,1977,1,5.0,Fleurance,Fleurance,Individual time trial
+19772,1977,2,237.0,Fleurance,Auch,Flat stage
+19773,1977,3,253.0,Auch,Pau,Mountain stage
+19774,1977,4,248.0,Oloron-Sainte-Marie,Vitoria-Gasteiz,Mountain stage
+19775,1977,5,256.0,Vitoria-Gasteiz,Seignosse le Penon,Mountain stage
+19777,1977,7,225.0,Bordeaux,Limoges,Flat stage
+19779,1977,9,247.0,Angers,Lorient,Flat stage
+197710,1977,10,187.0,Lorient,Rennes,Mountain stage
+197711,1977,11,174.0,Bagnoles-de-l'Orne,Rouen,Flat stage
+197712,1977,12,242.0,Rouen,Roubaix,Flat stage
+197713,1977,13,193.0,Roubaix,Charleroi,Mountain stage
+197715,1977,15,230.0,Besançon,Thonon-les-Bains,Mountain stage
+197717,1977,17,121.0,Morzine,Chamonix,Mountain stage
+197718,1977,18,185.0,Chamonix,Alpe d'Huez,Mountain stage
+197719,1977,19,199.0,Rossignol Voiron,Saint-Étienne,Mountain stage
+197720,1977,20,172.0,Saint-Trivier-sur-Moignans,Dijon,Flat stage
+197721,1977,21,50.0,Dijon,Dijon,Individual time trial
+197722,1977,22,142.0,Montereau-Fault-Yonne,Versailles,Flat stage
+19761,1976,1,8.0,Saint-Jean-de-Monts,Saint-Jean-de-Monts,Individual time trial
+19762,1976,2,173.0,Saint-Jean-de-Monts,Angers,Flat stage
+19763,1976,3,237.0,Angers,Caen,Flat stage
+19764,1976,4,37.0,Le Touquet-Paris-Plage,Le Touquet-Paris-Plage,Individual time trial
+19765,1976,5,258.0,Le Touquet-Paris-Plage,Bornem,Flat stage
+19767,1976,7,209.0,Bastogne,Nancy,Flat stage
+19768,1976,8,206.0,Nancy,Mulhouse,Flat stage
+19769,1976,9,220.0,Valentigney,Divonne-les-Bains,Flat stage
+197610,1976,10,258.0,Divonne-les-Bains,Alpe d'Huez,Mountain stage
+197611,1976,11,166.0,Le Bourg-d'Oisans,Montgenèvre,Mountain stage
+197612,1976,12,224.0,Montgenèvre,Manosque,Mountain stage
+197613,1976,13,205.0,Le Barcarès,Pyrénées 2000,Mountain stage
+197614,1976,14,188.0,Font-Romeu-Odeillo-Via,Saint-Gaudens,Mountain stage
+197615,1976,15,139.0,Saint-Gaudens,Saint-Lary-Soulan,Mountain stage
+197616,1976,16,195.0,Saint-Lary-Soulan,Pau,Mountain stage
+197617,1976,17,152.0,Pau,Fleurance,Flat stage
+197618,1976,18,39.0,Fleurance,Auch,Individual time trial
+197620,1976,20,220.0,Sainte-Foy-la-Grande,Tulle,Flat stage
+197621,1976,21,220.0,Tulle,Puy de Dôme,Mountain stage
+197622,1976,22,145.0,Montargis,Versailles,Flat stage
+19751,1975,1,6.0,Charleroi,Charleroi,Individual time trial
+19753,1975,3,121.0,Roubaix,Amiens,Flat stage
+19754,1975,4,170.0,Amiens,Versailles,Flat stage
+19755,1975,5,223.0,Versailles,Le Mans,Flat stage
+19756,1975,6,222.0,Sablé-sur-Sarthe,Merlin-Plage,Flat stage
+19757,1975,7,16.0,Merlin-Plage,Merlin-Plage,Individual time trial
+19758,1975,8,236.0,Saint-Gilles-Croix-de-Vie,Angoulême,Flat stage
+19759,1975,9,134.0,Angoulême,Bordeaux,Flat stage
+197511,1975,11,206.0,Auch,Pau,Mountain stage
+197512,1975,12,160.0,Pau,Saint-Lary-Soulan Pla d'Adet,Mountain stage
+197513,1975,13,242.0,Tarbes,Albi,Flat stage
+197514,1975,14,260.0,Albi,Super-Lioran,Mountain stage
+197515,1975,15,174.0,Aurillac,Puy de Dôme,Mountain stage
+197516,1975,16,217.0,Nice,Pra-Loup,Mountain stage
+197517,1975,17,107.0,Barcelonnette,Serre Chevalier,Mountain stage
+197518,1975,18,225.0,Valloire,Morzine Avoriaz,Mountain stage
+197519,1975,19,40.0,Morzine,Châtel,Individual time trial
+197520,1975,20,229.0,Thonon-les-Bains,Chalon-sur-Saône,Mountain stage
+197521,1975,21,256.0,Pouilly-en-Auxois,Melun,Flat stage
+197522,1975,22,220.0,Melun,Senlis,Flat stage
+197523,1975,23,164.0,Paris,Paris,Flat stage
+19741,1974,1,7.0,Brest,Brest,Individual time trial
+19742,1974,2,144.0,Brest,Saint-Pol-de-Léon,Flat stage
+19743,1974,3,164.0,Plymouth,Plymouth,Flat stage
+19744,1974,4,190.0,Morlaix,Saint-Malo,Flat stage
+19745,1974,5,184.0,Saint-Malo,Caen,Flat stage
+19746,1974,6,165.0,Caen,Dieppe,Flat stage
+19748,1974,8,221.0,Mons,Châlons-sur-Marne,Flat stage
+197410,1974,10,241.0,Besançon,Gaillard,Mountain stage
+197411,1974,11,131.0,Gaillard,Aix-les-Bains,Mountain stage
+197412,1974,12,199.0,Aix-les-Bains,Serre Chevalier,Mountain stage
+197413,1974,13,231.0,Savines-le-Lac,Orange,Mountain stage
+197414,1974,14,126.0,Avignon,Montpellier,Flat stage
+197415,1974,15,249.0,Lodève,Colomiers,Flat stage
+197416,1974,16,225.0,Colomiers,La Seu d'Urgell,Mountain stage
+197417,1974,17,209.0,La Seu d'Urgell,Saint-Lary-Soulan Pla d'Adet,Mountain stage
+197418,1974,18,119.0,Saint-Lary-Soulan,La Mongie,Mountain stage
+197419,1974,19,141.0,Bagnères-de-Bigorre,Pau,Mountain stage
+197421,1974,21,120.0,Saint-Gilles-Croix-de-Vie,Nantes,Flat stage
+197423,1974,23,146.0,Orléans,Paris,Flat stage
+19731,1973,1,7.1,Scheveningen,Scheveningen,Individual time trial
+19734,1973,4,226.0,Roubaix,Reims,Flat stage
+19735,1973,5,214.0,Reims,Nancy,Flat stage
+19736,1973,6,188.0,Nancy,Mulhouse,Mountain stage
+19737,1973,7,244.5,Mulhouse,Divonne-les-Bains,Mountain stage
+19739,1973,9,237.5,Moûtiers,Les Orres,Mountain stage
+197310,1973,10,234.5,Embrun,Nice,Mountain stage
+197311,1973,11,222.5,Nice,Aubagne,Mountain stage
+197312,1973,12,238.0,Montpellier,Argelès-sur-Mer,Flat stage
+197314,1973,14,235.0,Bourg-Madame,Luchon,Mountain stage
+197315,1973,15,227.5,Luchon,Pau,Mountain stage
+197316,1973,16,137.0,Pau,Fleurance,Flat stage
+197318,1973,18,248.0,Sainte-Foy-la-Grande,Brive-la-Gaillarde,Flat stage
+197319,1973,19,216.5,Brive-la-Gaillarde,Puy de Dôme,Mountain stage
+197320,1973,20,233.5,Bourges,Versailles,Flat stage
+19721,1972,1,7.2,Angers,Angers,Individual time trial
+19722,1972,2,235.5,Angers,Saint-Brieuc,Flat stage
+19723,1972,3,206.5,Saint-Brieuc,La Baule,Flat stage
+19725,1972,5,236.0,Merlin-Plage,Royan,Flat stage
+19727,1972,7,205.0,Bordeaux,Bayonne,Flat stage
+19728,1972,8,220.5,Bayonne,Pau,Mountain stage
+19729,1972,9,163.5,Pau,Luchon,Mountain stage
+197210,1972,10,179.0,Luchon,Colomiers,Mountain stage
+197211,1972,11,210.0,Castres,La Grande-Motte,Flat stage
+197212,1972,12,207.0,Carnon-Plage,Mont Ventoux,Mountain stage
+197213,1972,13,192.0,Carpentras,Orcières,Mountain stage
+197214,1972,14,201.0,Orcières,Briançon,Mountain stage
+197216,1972,16,28.0,Aix-les-Bains,Le Revard,Mountain stage
+197217,1972,17,198.5,Aix-les-Bains,Pontarlier,Mountain stage
+197218,1972,18,213.0,Pontarlier,Ballon d’Alsace,Mountain stage
+197219,1972,19,257.5,Vesoul,Auxerre,Flat stage
+197220,1972,20,230.0,Auxerre,Versailles,Flat stage
+19711,1971,1,11.0,Mulhouse,Mulhouse,Team time trial
+19713,1971,3,144.0,Mulhouse,Strasbourg,Mountain stage
+19714,1971,4,165.5,Strasbourg,Nancy,Mountain stage
+19715,1971,5,242.0,Nancy,Marche-en-Famenne,Flat stage
+19716,1971,6,208.5,Dinant,Roubaix,Mountain stage
+19718,1971,8,257.5,Rungis,Nevers,Flat stage
+19719,1971,9,221.0,Nevers,Puy de Dôme,Mountain stage
+197110,1971,10,153.0,Clermont-Ferrand,Saint-Étienne,Mountain stage
+197111,1971,11,188.5,Saint-Étienne,Grenoble,Mountain stage
+197112,1971,12,134.0,Grenoble,Orcières,Mountain stage
+197113,1971,13,251.0,Orcières,Marseille,Flat stage
+197114,1971,14,16.3,Albi,Albi,Individual time trial
+197115,1971,15,214.5,Revel,Luchon,Mountain stage
+197116,1971,16,19.6,Luchon,Superbagnères,Mountain stage
+197118,1971,18,188.0,Mont-de-Marsan,Bordeaux,Flat stage
+197119,1971,19,244.0,Bordeaux,Poitiers,Flat stage
+197120,1971,20,185.0,Blois,Versailles,Flat stage
+197121,1971,21,53.8,Versailles,Paris,Individual time trial
+19701,1970,1,7.4,Limoges,Limoges,Individual time trial
+19702,1970,2,224.5,Limoges,La Rochelle,Flat stage
+19703,1970,3,200.0,La Rochelle,Angers,Flat stage
+19705,1970,5,229.0,Rennes,Lisieux,Flat stage
+19707,1970,7,135.5,Amiens,Valenciennes,Flat stage
+19709,1970,9,232.5,Ciney,Felsberg,Flat stage
+197010,1970,10,269.5,Saarlouis,Mulhouse,Mountain stage
+197011,1970,11,241.0,Belfort,Divonne-les-Bains,Mountain stage
+197013,1970,13,194.0,Thonon-les-Bains,Grenoble,Mountain stage
+197014,1970,14,194.5,Grenoble,Gap,Mountain stage
+197015,1970,15,170.0,Gap,Mont Ventoux,Mountain stage
+197016,1970,16,140.5,Carpentras,Montpellier,Flat stage
+197017,1970,17,160.0,Montpellier,Toulouse,Flat stage
+197018,1970,18,190.0,Toulouse,Saint-Gaudens,Flat stage
+197019,1970,19,135.5,Saint-Gaudens,La Mongie,Mountain stage
+197020,1970,20,185.5,Bagnères-de-Bigorre,Mourenx,Mountain stage
+197022,1970,22,191.5,Ruffec,Tours,Flat stage
+197023,1970,23,238.5,Tours,Versailles,Flat stage
+19691,1969,1,10.0,Roubaix,Roubaix,Individual time trial
+19693,1969,3,182.0,Sint-Pieters-Woluwe,Maastricht,Flat stage
+19694,1969,4,213.0,Maastricht,Charleville-Mézières,Flat stage
+19695,1969,5,214.0,Charleville-Mézières,Nancy,Flat stage
+19696,1969,6,194.0,Nancy,Mulhouse,Mountain stage
+19697,1969,7,133.0,Mulhouse,Ballon d’Alsace,Mountain stage
+19698,1969,8,241.0,Belfort,Divonne-les-Bains,Mountain stage
+196910,1969,10,111.0,Thonon-les-Bains,Chamonix,Mountain stage
+196911,1969,11,221.0,Chamonix,Briançon,Mountain stage
+196912,1969,12,198.0,Briançon,Digne,Mountain stage
+196913,1969,13,161.0,Digne,Aubagne,Mountain stage
+196914,1969,14,196.0,Aubagne,La Grande-Motte,Flat stage
+196915,1969,15,234.0,La Grande-Motte,Revel,Flat stage
+196916,1969,16,19.0,Revel,Revel,Individual time trial
+196917,1969,17,199.0,Castelnaudary,Luchon,Mountain stage
+196918,1969,18,214.0,Luchon,Mourenx,Mountain stage
+196919,1969,19,201.0,Mourenx,Bordeaux,Flat stage
+196920,1969,20,193.0,Bordeaux,Brive,Flat stage
+196921,1969,21,198.0,Brive,Puy de Dôme,Mountain stage
+196922,1969,22,329.0,Clermont-Ferrand,Montargis,Flat stage
+19681,1968,1,6.1,Vittel,Vittel,Individual time trial
+19682,1968,2,189.0,Vittel,Esch-sur-Alzette,Flat stage
+19683,1968,3,210.5,Arlon,Forest,Flat stage
+19685,1968,5,238.0,Roubaix,Rouen,Flat stage
+19687,1968,7,188.0,Dinard,Lorient,Flat stage
+19688,1968,8,190.0,Lorient,Nantes,Flat stage
+19689,1968,9,223.0,Nantes,Royan,Flat stage
+196810,1968,10,137.5,Royan,Bordeaux,Flat stage
+196811,1968,11,202.5,Bordeaux,Bayonne,Flat stage
+196812,1968,12,183.5,Bayonne,Pau,Flat stage
+196813,1968,13,226.5,Pau,Saint-Gaudens,Mountain stage
+196814,1968,14,208.5,Saint-Gaudens,La Seu d'Urgell,Mountain stage
+196815,1968,15,231.5,La Seu d'Urgell,Perpignan,Mountain stage
+196816,1968,16,250.5,Font-Romeu-Odeillo-Via,Albi,Flat stage
+196817,1968,17,199.0,Albi,Aurillac,Flat stage
+196818,1968,18,236.5,Aurillac,Saint-Étienne,Mountain stage
+196819,1968,19,235.0,Saint-Étienne,Grenoble,Mountain stage
+196820,1968,20,200.0,Grenoble,Sallanches,Mountain stage
+196821,1968,21,242.5,Sallanches,Besançon,Mountain stage
+196822,1968,22,242.0,Besançon,Auxerre,Flat stage
+19671,1967,1,5.775,Angers,Angers,Individual time trial
+19672,1967,2,185.5,Angers,Saint-Malo,Flat stage
+19673,1967,3,180.0,Saint-Malo,Caen,Flat stage
+19674,1967,4,248.0,Caen,Amiens,Flat stage
+19675,1967,5,191.0,Amiens,Roubaix,Flat stage
+19677,1967,7,238.0,Jambes,Metz,Flat stage
+19678,1967,8,205.5,Metz,Strasbourg,Mountain stage
+19679,1967,9,215.0,Strasbourg,Belfort/Ballon d’Alsace,Mountain stage
+196710,1967,10,238.5,Belfort,Divonne-les-Bains,Mountain stage
+196711,1967,11,243.0,Divonne-les-Bains,Briançon,Mountain stage
+196712,1967,12,197.0,Briançon,Digne,Mountain stage
+196713,1967,13,207.5,Digne,Marseille,Flat stage
+196714,1967,14,211.5,Marseille,Carpentras,Mountain stage
+196715,1967,15,201.5,Carpentras,Sète,Flat stage
+196716,1967,16,230.5,Sète,Toulouse,Flat stage
+196717,1967,17,188.0,Toulouse,Luchon,Mountain stage
+196718,1967,18,250.0,Luchon,Pau,Mountain stage
+196719,1967,19,206.5,Pau,Bordeaux,Flat stage
+196720,1967,20,217.0,Bordeaux,Limoges,Flat stage
+196721,1967,21,222.0,Limoges,Puy de Dôme,Mountain stage
+196722,1967,22,359.0,Clermont-Ferrand,Fontainebleau,Flat stage
+19661,1966,1,209.0,Nancy,Charleville,Flat stage
+19662,1966,2,198.0,Charleville,Tournai,Flat stage
+19664,1966,4,205.0,Dunkirk,Dieppe,Flat stage
+19665,1966,5,178.0,Dieppe,Caen,Flat stage
+19666,1966,6,217.0,Caen,Angers,Flat stage
+19667,1966,7,252.0,Angers,Royan,Flat stage
+19668,1966,8,138.0,Royan,Bordeaux,Flat stage
+19669,1966,9,201.0,Bordeaux,Bayonne,Flat stage
+196610,1966,10,234.0,Bayonne,Pau,Mountain stage
+196611,1966,11,188.0,Pau,Luchon,Mountain stage
+196612,1966,12,219.0,Luchon,Revel,Mountain stage
+196613,1966,13,191.0,Revel,Sète,Flat stage
+196615,1966,15,203.0,Privas,Le Bourg-d'Oisans,Mountain stage
+196616,1966,16,148.0,Le Bourg-d'Oisans,Briançon,Mountain stage
+196617,1966,17,160.0,Briançon,Turin,Mountain stage
+196618,1966,18,188.0,Ivrea,Chamonix,Mountain stage
+196619,1966,19,265.0,Chamonix,Saint-Étienne,Mountain stage
+196620,1966,20,223.0,Saint-Étienne,Montluçon,Flat stage
+196621,1966,21,232.0,Montluçon,Orléans,Flat stage
+19652,1965,2,200.5,Liège,Roubaix,Flat stage
+19653,1965,3,240.0,Roubaix,Rouen,Flat stage
+19654,1965,4,227.0,Caen,Saint-Brieuc,Flat stage
+19656,1965,6,210.5,Quimper,La Baule,Flat stage
+19657,1965,7,219.0,La Baule,La Rochelle,Flat stage
+19658,1965,8,197.5,La Rochelle,Bordeaux,Flat stage
+19659,1965,9,226.5,Dax,Bagnères-de-Bigorre,Mountain stage
+196510,1965,10,222.5,Bagnères-de-Bigorre,Ax-les-Thermes,Mountain stage
+196511,1965,11,240.5,Ax-les-Thermes,Barcelona,Mountain stage
+196512,1965,12,219.0,Barcelona,Perpignan,Flat stage
+196513,1965,13,164.0,Perpignan,Montpellier,Flat stage
+196514,1965,14,173.0,Montpellier,Mont Ventoux,Mountain stage
+196515,1965,15,167.5,Carpentras,Gap,Mountain stage
+196516,1965,16,177.0,Gap,Briançon,Mountain stage
+196517,1965,17,193.5,Briançon,Aix-les-Bains,Mountain stage
+196518,1965,18,26.9,Aix-les-Bains,Le Revard,Mountain stage
+196519,1965,19,165.0,Aix-les-Bains,Lyon,Mountain stage
+196520,1965,20,198.5,Lyon,Auxerre,Flat stage
+196521,1965,21,225.5,Auxerre,Versailles,Flat stage
+196522,1965,22,37.8,Versailles,Paris,Individual time trial
+19641,1964,1,215.0,Rennes,Lisieux,Flat stage
+19642,1964,2,208.0,Lisieux,Amiens,Flat stage
+19644,1964,4,292.0,Forest,Metz,Flat stage
+19645,1964,5,161.0,Lunéville,Freiburg,Flat stage
+19646,1964,6,200.0,Freiburg,Besançon,Flat stage
+19647,1964,7,195.0,Besançon,Thonon-les-Bains,Flat stage
+19648,1964,8,249.0,Thonon-les-Bains,Briançon,Mountain stage
+19649,1964,9,239.0,Briançon,Monaco,Mountain stage
+196411,1964,11,250.0,Toulon,Montpellier,Flat stage
+196412,1964,12,174.0,Montpellier,Perpignan,Flat stage
+196413,1964,13,170.0,Perpignan,Andorra,Mountain stage
+196414,1964,14,186.0,Andorra,Toulouse,Mountain stage
+196415,1964,15,203.0,Toulouse,Luchon,Mountain stage
+196416,1964,16,197.0,Luchon,Pau,Mountain stage
+196417,1964,17,43.0,Peyrehorade,Bayonne,Individual time trial
+196418,1964,18,187.0,Bayonne,Bordeaux,Flat stage
+196419,1964,19,215.0,Bordeaux,Brive,Flat stage
+196420,1964,20,217.0,Brive,Puy de Dôme,Mountain stage
+196421,1964,21,311.0,Clermont-Ferrand,Orléans,Flat stage
+19631,1963,1,152.0,Paris,Épernay,Flat stage
+19633,1963,3,223.0,Jambes,Roubaix,Flat stage
+19634,1963,4,236.0,Roubaix,Rouen,Flat stage
+19635,1963,5,285.0,Rouen,Rennes,Flat stage
+19637,1963,7,236.0,Angers,Limoges,Flat stage
+19638,1963,8,232.0,Limoges,Bordeaux,Flat stage
+19639,1963,9,202.0,Bordeaux,Pau,Flat stage
+196310,1963,10,148.0,Pau,Bagnères-de-Bigorre,Mountain stage
+196311,1963,11,131.0,Bagnères-de-Bigorre,Luchon,Mountain stage
+196312,1963,12,173.0,Luchon,Toulouse,Mountain stage
+196313,1963,13,234.0,Toulouse,Aurillac,Flat stage
+196314,1963,14,237.0,Aurillac,Saint-Étienne,Flat stage
+196315,1963,15,174.0,Saint-Étienne,Grenoble,Mountain stage
+196316,1963,16,202.0,Grenoble,Val d'Isère,Mountain stage
+196317,1963,17,228.0,Val d'Isère,Chamonix,Mountain stage
+196318,1963,18,225.0,Chamonix,Lons-le-Saunier,Mountain stage
+196319,1963,19,54.0,Arbois,Besançon,Individual time trial
+196320,1963,20,234.0,Besançon,Troyes,Flat stage
+196321,1963,21,185.0,Troyes,Paris,Flat stage
+19621,1962,1,253.0,Nancy,Spa,Flat stage
+19623,1962,3,210.0,Brussels,Amiens,Flat stage
+19624,1962,4,196.5,Amiens,Le Havre,Flat stage
+19625,1962,5,215.0,Pont l'Evêque,Saint-Malo,Flat stage
+19626,1962,6,235.5,Dinard,Brest,Flat stage
+19627,1962,7,201.0,Quimper,Saint-Nazaire,Flat stage
+19629,1962,9,214.0,La Rochelle,Bordeaux,Flat stage
+196210,1962,10,184.5,Bordeaux,Bayonne,Flat stage
+196211,1962,11,155.5,Bayonne,Pau,Flat stage
+196212,1962,12,207.5,Pau,Saint-Gaudens,Mountain stage
+196213,1962,13,18.5,Luchon,Superbagnères,Mountain stage
+196214,1962,14,215.0,Luchon,Carcassonne,Mountain stage
+196215,1962,15,196.5,Carcassonne,Montpellier,Flat stage
+196216,1962,16,185.0,Montpellier,Aix-en-Provence,Flat stage
+196217,1962,17,201.0,Aix-en-Provence,Antibes,Flat stage
+196218,1962,18,241.5,Antibes,Briançon,Mountain stage
+196219,1962,19,204.5,Briançon,Aix-les-Bains,Mountain stage
+196220,1962,20,68.0,Bourgoin,Lyon,Individual time trial
+196221,1962,21,232.0,Lyon,Nevers,Flat stage
+196222,1962,22,271.0,Nevers,Paris,Flat stage
+19612,1961,2,230.5,Pontoise,Roubaix,Flat stage
+19613,1961,3,197.5,Roubaix,Charleroi,Flat stage
+19614,1961,4,237.5,Charleroi,Metz,Flat stage
+19615,1961,5,221.0,Metz,Strasbourg,Mountain stage
+19616,1961,6,180.5,Strasbourg,Belfort,Mountain stage
+19617,1961,7,214.5,Belfort,Chalon-sur-Saône,Flat stage
+19618,1961,8,240.5,Chalon-sur-Saône,Saint-Étienne,Mountain stage
+19619,1961,9,230.0,Saint-Étienne,Grenoble,Mountain stage
+196110,1961,10,250.5,Grenoble,Turin,Mountain stage
+196111,1961,11,225.0,Turin,Antibes,Mountain stage
+196112,1961,12,199.0,Antibes,Aix-en-Provence,Mountain stage
+196113,1961,13,177.5,Aix-en-Provence,Montpellier,Flat stage
+196114,1961,14,174.0,Montpellier,Perpignan,Flat stage
+196115,1961,15,206.0,Perpignan,Toulouse,Flat stage
+196116,1961,16,208.0,Toulouse,Superbagnères,Mountain stage
+196117,1961,17,197.0,Luchon,Pau,Mountain stage
+196118,1961,18,207.0,Pau,Bordeaux,Flat stage
+196119,1961,19,74.5,Bergerac,Périgueux,Individual time trial
+196120,1961,20,309.5,Périgueux,Tours,Flat stage
+196121,1961,21,252.5,Tours,Paris,Flat stage
+19602,1960,2,206.0,Brussels,Dunkirk,Flat stage
+19603,1960,3,209.0,Dunkirk,Dieppe,Flat stage
+19604,1960,4,211.0,Dieppe,Caen,Flat stage
+19605,1960,5,189.0,Caen,Saint-Malo,Flat stage
+19606,1960,6,191.0,Saint-Malo,Lorient,Flat stage
+19607,1960,7,244.0,Lorient,Angers,Flat stage
+19608,1960,8,240.0,Angers,Limoges,Flat stage
+19609,1960,9,225.0,Limoges,Bordeaux,Flat stage
+196010,1960,10,228.0,Mont-de-Marsan,Pau,Mountain stage
+196011,1960,11,161.0,Pau,Luchon,Mountain stage
+196012,1960,12,176.0,Luchon,Toulouse,Mountain stage
+196013,1960,13,224.0,Toulouse,Millau,Flat stage
+196014,1960,14,217.0,Millau,Avignon,Mountain stage
+196015,1960,15,187.0,Avignon,Gap,Mountain stage
+196016,1960,16,172.0,Gap,Briançon,Mountain stage
+196017,1960,17,229.0,Briançon,Aix-les-Bains,Mountain stage
+196018,1960,18,215.0,Aix-les-Bains,Thonon-les-Bains,Mountain stage
+196019,1960,19,83.0,Pontarlier,Besançon,Individual time trial
+196020,1960,20,229.0,Besançon,Troyes,Flat stage
+196021,1960,21,200.0,Troyes,Paris,Flat stage
+19591,1959,1,238.0,Mulhouse,Metz,Flat stage
+19592,1959,2,234.0,Metz,Namur,Flat stage
+19593,1959,3,217.0,Namur,Roubaix,Flat stage
+19594,1959,4,230.0,Roubaix,Rouen,Flat stage
+19595,1959,5,286.0,Rouen,Rennes,Flat stage
+19596,1959,6,45.0,Blain,Nantes,Individual time trial
+19597,1959,7,190.0,Nantes,La Rochelle,Flat stage
+19598,1959,8,201.0,La Rochelle,Bordeaux,Flat stage
+19599,1959,9,207.0,Bordeaux,Bayonne,Flat stage
+195910,1959,10,235.0,Bayonne,Bagnères-de-Bigorre,Mountain stage
+195911,1959,11,119.0,Bagnères-de-Bigorre,Saint-Gaudens,Mountain stage
+195912,1959,12,184.0,Saint-Gaudens,Albi,Flat stage
+195913,1959,13,219.0,Albi,Aurillac,Mountain stage
+195914,1959,14,231.0,Aurillac,Clermont-Ferrand,Mountain stage
+195915,1959,15,12.0,Puy de Dôme,Puy de Dôme,Mountain stage
+195916,1959,16,210.0,Clermont-Ferrand,Saint-Étienne,Flat stage
+195917,1959,17,197.0,Saint-Étienne,Grenoble,Mountain stage
+195918,1959,18,243.0,Grenoble,Saint-Vincent,Mountain stage
+195919,1959,19,251.0,Saint-Vincent,Annecy,Mountain stage
+195920,1959,20,202.0,Annecy,Chalon-sur-Saône,Flat stage
+195921,1959,21,69.0,Seurre,Dijon,Individual time trial
+195922,1959,22,331.0,Dijon,Paris,Flat stage
+19581,1958,1,184.0,Brussels,Ghent,Flat stage
+19582,1958,2,198.0,Ghent,Dunkirk,Flat stage
+19583,1958,3,177.0,Dunkirk,Mers-les-Bains,Flat stage
+19584,1958,4,205.0,Le Tréport,Versailles,Flat stage
+19585,1958,5,232.0,Versailles,Caen,Flat stage
+19586,1958,6,223.0,Caen,Saint-Brieuc,Flat stage
+19587,1958,7,170.0,Saint-Brieuc,Brest,Flat stage
+19588,1958,8,46.0,Châteaulin,Châteaulin,Individual time trial
+19589,1958,9,206.0,Quimper,Saint-Nazaire,Flat stage
+195810,1958,10,255.0,Saint-Nazaire,Royan,Flat stage
+195811,1958,11,137.0,Royan,Bordeaux,Flat stage
+195812,1958,12,161.0,Bordeaux,Dax,Flat stage
+195813,1958,13,230.0,Dax,Pau,Mountain stage
+195814,1958,14,129.0,Pau,Luchon,Mountain stage
+195815,1958,15,176.0,Luchon,Toulouse,Mountain stage
+195816,1958,16,187.0,Toulouse,Béziers,Flat stage
+195817,1958,17,189.0,Béziers,Nîmes,Flat stage
+195818,1958,18,21.0,Bédoin,Mont-Ventoux,Mountain stage
+195819,1958,19,178.0,Carpentras,Gap,Mountain stage
+195820,1958,20,165.0,Gap,Briançon,Mountain stage
+195821,1958,21,219.0,Briançon,Aix-les-Bains,Mountain stage
+195822,1958,22,237.0,Aix-les-Bains,Besançon,Mountain stage
+19571,1957,1,204.0,Nantes,Granville,Flat stage
+19572,1957,2,226.0,Granville,Caen,Flat stage
+19574,1957,4,232.0,Rouen,Roubaix,Flat stage
+19575,1957,5,170.0,Roubaix,Charleroi,Flat stage
+19576,1957,6,248.0,Charleroi,Metz,Flat stage
+19577,1957,7,223.0,Metz,Colmar,Mountain stage
+19578,1957,8,192.0,Colmar,Besançon,Flat stage
+19579,1957,9,188.0,Besançon,Thonon-les-Bains,Flat stage
+195710,1957,10,247.0,Thonon-les-Bains,Briançon,Mountain stage
+195711,1957,11,286.0,Briançon,Cannes,Mountain stage
+195712,1957,12,239.0,Cannes,Marseille,Mountain stage
+195713,1957,13,160.0,Marseille,Alès,Flat stage
+195714,1957,14,246.0,Alès,Perpignan,Flat stage
+195716,1957,16,220.0,Barcelona ,Ax-les-Thermes,Mountain stage
+195717,1957,17,236.0,Ax-les-Thermes,Saint-Gaudens,Mountain stage
+195718,1957,18,207.0,Saint-Gaudens,Pau,Mountain stage
+195719,1957,19,194.0,Pau,Bordeaux,Flat stage
+195720,1957,20,66.0,Bordeaux,Libourne,Individual time trial
+195721,1957,21,317.0,Libourne,Tours,Flat stage
+195722,1957,22,227.0,Tours,Paris,Flat stage
+19561,1956,1,223.0,Reims,Liège,Flat stage
+19562,1956,2,217.0,Liège,Lille,Flat stage
+19563,1956,3,225.0,Lille,Rouen,Flat stage
+19565,1956,5,189.0,Caen,Saint-Malo,Flat stage
+19566,1956,6,192.0,Saint-Malo,Lorient,Flat stage
+19567,1956,7,244.0,Lorient,Angers,Flat stage
+19568,1956,8,180.0,Angers,La Rochelle,Flat stage
+19569,1956,9,219.0,La Rochelle,Bordeaux,Flat stage
+195610,1956,10,201.0,Bordeaux,Bayonne,Flat stage
+195611,1956,11,255.0,Bayonne,Pau,Mountain stage
+195612,1956,12,130.0,Pau,Luchon,Mountain stage
+195613,1956,13,176.0,Luchon,Toulouse,Mountain stage
+195614,1956,14,231.0,Toulouse,Montpellier,Flat stage
+195615,1956,15,204.0,Montpellier,Aix-en-Provence,Flat stage
+195616,1956,16,203.0,Aix-en-Provence,Gap,Mountain stage
+195617,1956,17,234.0,Gap,Turin,Mountain stage
+195618,1956,18,250.0,Turin,Grenoble,Mountain stage
+195619,1956,19,173.0,Grenoble,Saint-Étienne,Mountain stage
+195620,1956,20,73.0,Saint-Étienne,Lyon,Individual time trial
+195621,1956,21,237.0,Lyon,Montluçon,Mountain stage
+195622,1956,22,331.0,Montluçon,Paris,Flat stage
+19552,1955,2,204.0,Dieppe,Roubaix,Flat stage
+19553,1955,3,210.0,Roubaix,Namur,Flat stage
+19554,1955,4,225.0,Namur,Metz,Flat stage
+19555,1955,5,229.0,Metz,Colmar,Flat stage
+19556,1955,6,195.0,Colmar,Zürich,Flat stage
+19557,1955,7,267.0,Zürich,Thonon-les-Bains,Flat stage
+19558,1955,8,253.0,Thonon-les-Bains,Briançon,Mountain stage
+19559,1955,9,275.0,Briançon,Monaco,Mountain stage
+195510,1955,10,240.0,Monaco,Marseille,Flat stage
+195511,1955,11,198.0,Marseille,Avignon,Mountain stage
+195512,1955,12,240.0,Avignon,Millau,Mountain stage
+195513,1955,13,205.0,Millau,Albi,Flat stage
+195514,1955,14,156.0,Albi,Narbonne,Mountain stage
+195515,1955,15,151.0,Narbonne,Ax-les-Thermes,Flat stage
+195516,1955,16,123.0,Ax-les-Thermes,Toulouse,Flat stage
+195517,1955,17,250.0,Toulouse,Saint-Gaudens,Mountain stage
+195518,1955,18,205.0,Saint-Gaudens,Pau,Mountain stage
+195519,1955,19,195.0,Pau,Bordeaux,Flat stage
+195520,1955,20,243.0,Bordeaux,Poitiers,Flat stage
+195521,1955,21,68.6,Châtellerault,Tours,Individual time trial
+195522,1955,22,229.0,Tours,Paris,Flat stage
+19541,1954,1,216.0,Amsterdam,Brasschaat,Flat stage
+19542,1954,2,255.0,Beveren,Lille,Flat stage
+19543,1954,3,219.0,Lille,Rouen,Flat stage
+19545,1954,5,224.0,Caen,Saint-Brieuc,Flat stage
+19546,1954,6,179.0,Saint-Brieuc,Brest,Flat stage
+19547,1954,7,211.0,Brest,Vannes,Flat stage
+19548,1954,8,190.0,Vannes,Angers,Flat stage
+19549,1954,9,343.0,Angers,Bordeaux,Flat stage
+195410,1954,10,202.0,Bordeaux,Bayonne,Flat stage
+195411,1954,11,241.0,Bayonne,Pau,Mountain stage
+195412,1954,12,161.0,Pau,Luchon,Mountain stage
+195413,1954,13,203.0,Luchon,Toulouse,Flat stage
+195414,1954,14,225.0,Toulouse,Millau,Mountain stage
+195415,1954,15,197.0,Millau,Le Puy,Mountain stage
+195416,1954,16,194.0,Le Puy,Lyon,Mountain stage
+195417,1954,17,182.0,Lyon,Grenoble,Mountain stage
+195418,1954,18,216.0,Grenoble,Briançon,Mountain stage
+195419,1954,19,221.0,Briançon,Aix-les-Bains,Mountain stage
+195420,1954,20,243.0,Aix les Bains,Besançon,Mountain stage
+195422,1954,22,216.0,Nancy,Troyes,Flat stage
+19531,1953,1,195.0,Strasbourg,Metz,Flat stage
+19532,1953,2,227.0,Metz,Liège,Flat stage
+19533,1953,3,221.0,Liège,Lille,Flat stage
+19534,1953,4,188.0,Lille,Dieppe,Flat stage
+19535,1953,5,200.0,Dieppe,Caen,Flat stage
+19536,1953,6,206.0,Caen,Le Mans,Flat stage
+19537,1953,7,181.0,Le Mans,Nantes,Flat stage
+19538,1953,8,345.0,Nantes,Bordeaux,Flat stage
+19539,1953,9,197.0,Bordeaux,Pau,Flat stage
+195310,1953,10,103.0,Pau,Cauterets,Mountain stage
+195311,1953,11,115.0,Cauterets,Luchon,Mountain stage
+195312,1953,12,228.0,Luchon,Albi,Flat stage
+195313,1953,13,189.0,Albi,Béziers,Mountain stage
+195314,1953,14,214.0,Béziers,Nîmes,Mountain stage
+195315,1953,15,173.0,Nîmes,Marseille,Flat stage
+195316,1953,16,236.0,Marseille,Monaco,Mountain stage
+195317,1953,17,261.0,Monaco,Gap,Mountain stage
+195318,1953,18,165.0,Gap,Briançon,Mountain stage
+195319,1953,19,227.0,Briançon,Lyon,Mountain stage
+195320,1953,20,70.0,Lyon,St. Etienne,Individual time trial
+195321,1953,21,210.0,St. Etienne,Montluçon,Flat stage
+195322,1953,22,328.0,Montluçon,Paris,Flat stage
+19521,1952,1,246.0,Brest,Rennes,Flat stage
+19522,1952,2,181.0,Rennes,Le Mans,Flat stage
+19523,1952,3,189.0,Le Mans,Rouen,Flat stage
+19524,1952,4,232.0,Rouen,Roubaix,Flat stage
+19525,1952,5,197.0,Roubaix,Namur,Flat stage
+19526,1952,6,228.0,Namur,Metz,Flat stage
+19527,1952,7,60.0,Metz,Nancy,Individual time trial
+19528,1952,8,252.0,Nancy,Mulhouse,Mountain stage
+19529,1952,9,238.0,Mulhouse,Lausanne,Mountain stage
+195210,1952,10,266.0,Lausanne,Alpe d'Huez,Mountain stage
+195211,1952,11,182.0,Le Bourg-d'Oisans,Sestriere,Mountain stage
+195212,1952,12,251.0,Sestriere,Monaco,Mountain stage
+195213,1952,13,214.0,Monaco,Aix-en-Provence,Flat stage
+195214,1952,14,178.0,Aix-en-Provence,Avignon,Mountain stage
+195215,1952,15,275.0,Avignon,Perpignan,Flat stage
+195216,1952,16,200.0,Perpignan,Toulouse,Flat stage
+195217,1952,17,204.0,Toulouse,Bagnères-de-Bigorre,Mountain stage
+195218,1952,18,149.0,Bagnères-de-Bigorre,Pau,Mountain stage
+195219,1952,19,195.0,Pau,Bordeaux,Flat stage
+195220,1952,20,228.0,Bordeaux,Limoges,Flat stage
+195221,1952,21,245.0,Limoges,Puy de Dôme,Mountain stage
+195222,1952,22,63.0,Clermont-Ferrand,Vichy,Individual time trial
+19511,1951,1,185.0,Metz,Reims,Flat stage
+19512,1951,2,228.0,Reims,Ghent,Flat stage
+19513,1951,3,219.0,Ghent,Le Tréport,Flat stage
+19514,1951,4,188.0,Le Tréport,Paris,Flat stage
+19515,1951,5,215.0,Paris,Caen,Flat stage
+19516,1951,6,182.0,Caen,Rennes,Flat stage
+19517,1951,7,85.0,La Guerche-de-Bretagne,Angers,Individual time trial
+19518,1951,8,241.0,Angers,Limoges,Flat stage
+19519,1951,9,236.0,Limoges,Clermont-Ferrand,Mountain stage
+195110,1951,10,216.0,Clermont-Ferrand,Brive,Mountain stage
+195111,1951,11,177.0,Brive,Agen,Flat stage
+195112,1951,12,185.0,Agen,Dax,Flat stage
+195113,1951,13,201.0,Dax,Tarbes,Mountain stage
+195114,1951,14,142.0,Tarbes,Luchon,Mountain stage
+195115,1951,15,213.0,Luchon,Carcassonne,Mountain stage
+195116,1951,16,192.0,Carcassonne,Montpellier,Flat stage
+195117,1951,17,224.0,Montpellier,Avignon,Mountain stage
+195118,1951,18,173.0,Avignon,Marseille,Flat stage
+195119,1951,19,208.0,Marseille,Gap,Mountain stage
+195120,1951,20,165.0,Gap,Briançon,Mountain stage
+195121,1951,21,201.0,Briançon,Aix-les-Bains,Mountain stage
+195122,1951,22,97.0,Aix-les-Bains,Geneva,Individual time trial
+19501,1950,1,307.0,Paris,Metz,Flat stage
+19502,1950,2,241.0,Metz,Liège,Flat stage
+19503,1950,3,232.5,Liège,Lille,Flat stage
+19504,1950,4,231.0,Lille,Rouen,Flat stage
+19505,1950,5,316.0,Rouen,Dinard,Flat stage
+19506,1950,6,78.0,Dinard,St. Brieuc,Individual time trial
+19507,1950,7,248.0,St. Brieuc,Angers,Flat stage
+19508,1950,8,181.0,Angers,Niort,Flat stage
+19509,1950,9,206.0,Niort,Bordeaux,Flat stage
+195010,1950,10,202.0,Bordeaux,Pau,Flat stage
+195011,1950,11,230.0,Pau,St. Gaudens,Mountain stage
+195012,1950,12,233.0,Saint-Gaudens,Perpignan,Flat stage
+195013,1950,13,215.0,Perpignan,Nîmes,Flat stage
+195014,1950,14,222.0,Nîmes,Toulon,Flat stage
+195015,1950,15,205.5,Toulon,Menton,Mountain stage
+195016,1950,16,96.0,Menton,Nice,Mountain stage
+195017,1950,17,229.0,Nice,Gap,Mountain stage
+195018,1950,18,165.0,Gap,Briançon,Mountain stage
+195019,1950,19,291.0,Briançon,Saint-Étienne,Mountain stage
+195020,1950,20,98.0,Saint-Étienne,Lyon,Mountain stage
+195021,1950,21,233.0,Lyon,Dijon,Flat stage
+195022,1950,22,314.0,Dijon,Paris,Flat stage
+19491,1949,1,182.0,Paris,Reims,Flat stage
+19492,1949,2,273.0,Reims,Brussels,Flat stage
+19493,1949,3,211.0,Brussels,Boulogne-sur-Mer,Flat stage
+19494,1949,4,185.0,Boulogne-sur-Mer,Rouen,Flat stage
+19495,1949,5,293.0,Rouen,Saint-Malo,Flat stage
+19496,1949,6,305.0,Saint-Malo,Les Sables-d'Olonne,Flat stage
+19497,1949,7,92.0,Les Sables-d'Olonne,La Rochelle,Individual time trial
+19498,1949,8,262.0,La Rochelle,Bordeaux,Flat stage
+19499,1949,9,228.0,Bordeaux,San Sebastián,Flat stage
+194910,1949,10,192.0,San Sebastián,Pau,Flat stage
+194911,1949,11,193.0,Pau,Luchon,Mountain stage
+194912,1949,12,134.0,Luchon,Toulouse,Flat stage
+194913,1949,13,289.0,Toulouse,Nîmes,Flat stage
+194914,1949,14,199.0,Nîmes,Marseille,Flat stage
+194915,1949,15,215.0,Marseille,Cannes,Flat stage
+194916,1949,16,275.0,Cannes,Briançon,Mountain stage
+194917,1949,17,257.0,Briançon,Aosta,Mountain stage
+194918,1949,18,265.0,Aosta,Lausanne,Mountain stage
+194919,1949,19,283.0,Lausanne,Colmar,Mountain stage
+194920,1949,20,137.0,Colmar,Nancy,Mountain stage
+194921,1949,21,340.0,Nancy,Paris,Flat stage
+19481,1948,1,237.0,Paris,Trouville,Flat stage
+19482,1948,2,259.0,Trouville,Dinard,Flat stage
+19483,1948,3,251.0,Dinard,Nantes,Flat stage
+19484,1948,4,166.0,Nantes,La Rochelle,Flat stage
+19485,1948,5,262.0,La Rochelle,Bordeaux,Flat stage
+19486,1948,6,244.0,Bordeaux,Biarritz,Flat stage
+19487,1948,7,219.0,Biarritz,Lourdes,Mountain stage
+19488,1948,8,261.0,Lourdes,Toulouse,Mountain stage
+19489,1948,9,246.0,Toulouse,Montpellier,Flat stage
+194810,1948,10,248.0,Montpellier,Marseille,Flat stage
+194811,1948,11,245.0,Marseille,Sanremo,Flat stage
+194812,1948,12,170.0,Sanremo,Cannes,Mountain stage
+194813,1948,13,274.0,Cannes,Briançon,Mountain stage
+194814,1948,14,263.0,Briançon,Aix-les-Bains,Mountain stage
+194815,1948,15,256.0,Aix-les-Bains,Lausanne,Mountain stage
+194816,1948,16,243.0,Lausanne,Mulhouse,Mountain stage
+194817,1948,17,120.0,Mulhouse,Strasbourg,Individual time trial
+194818,1948,18,195.0,Strasbourg,Metz,Flat stage
+194819,1948,19,249.0,Metz,Liège,Flat stage
+194820,1948,20,228.0,Liège,Roubaix,Flat stage
+194821,1948,21,286.0,Roubaix,Paris,Flat stage
+19471,1947,1,236.0,Paris,Lille,Flat stage
+19472,1947,2,182.0,Lille,Brussels,Flat stage
+19473,1947,3,314.0,Brussels,Luxembourg City,Flat stage
+19474,1947,4,223.0,Luxembourg City,Strasbourg,Flat stage
+19475,1947,5,248.0,Strasbourg,Besançon,Flat stage
+19476,1947,6,249.0,Besançon,Lyon,Flat stage
+19477,1947,7,172.0,Lyon,Grenoble,Mountain stage
+19478,1947,8,185.0,Grenoble,Briançon,Mountain stage
+19479,1947,9,217.0,Briançon,Digne,Mountain stage
+194710,1947,10,255.0,Digne,Nice,Mountain stage
+194711,1947,11,230.0,Nice,Marseille,Flat stage
+194712,1947,12,165.0,Marseille,Montpellier,Flat stage
+194713,1947,13,172.0,Montpellier,Carcassonne,Flat stage
+194714,1947,14,253.0,Carcassonne,Luchon,Mountain stage
+194715,1947,15,195.0,Luchon,Pau,Mountain stage
+194716,1947,16,195.0,Pau,Bordeaux,Flat stage
+194717,1947,17,272.0,Bordeaux,Les Sables-d'Olonne,Flat stage
+194718,1947,18,236.0,Les Sables-d'Olonne,Vannes,Flat stage
+194719,1947,19,139.0,Vannes,Saint-Brieuc,Individual time trial
+194720,1947,20,235.0,Saint-Brieuc,Caen,Flat stage
+194721,1947,21,257.0,Caen,Paris,Flat stage
+19391,1939,1,215.0,Paris,Caen,Flat stage
+19393,1939,3,244.0,Rennes,Brest,Flat stage
+19394,1939,4,174.0,Brest,Lorient,Flat stage
+19395,1939,5,207.0,Lorient,Nantes,Flat stage
+19397,1939,7,198.0,Royan,Bordeaux,Flat stage
+19399,1939,9,311.0,Pau,Toulouse,Mountain stage
+193911,1939,11,212.0,Montpellier,Marseille,Flat stage
+193913,1939,13,101.0,Monaco,Monaco,Mountain stage
+193914,1939,14,175.0,Monaco,Digne,Flat stage
+193915,1939,15,219.0,Digne,Briançon,Mountain stage
+19381,1938,1,215.0,Paris,Caen,Flat stage
+19382,1938,2,237.0,Caen,Saint-Brieuc,Flat stage
+19383,1938,3,238.0,Saint-Brieuc,Nantes,Flat stage
+19385,1938,5,198.0,Royan,Bordeaux,Flat stage
+19387,1938,7,115.0,Bayonne,Pau,Flat stage
+19388,1938,8,193.0,Pau,Luchon,Mountain stage
+19389,1938,9,260.0,Luchon,Perpignan,Mountain stage
+193811,1938,11,223.0,Montpellier,Marseille,Flat stage
+193812,1938,12,199.0,Marseille,Cannes,Flat stage
+193813,1938,13,284.0,Cannes,Digne,Mountain stage
+193814,1938,14,219.0,Digne,Briançon,Mountain stage
+193815,1938,15,311.0,Briançon,Aix-les-Bains,Mountain stage
+193816,1938,16,284.0,Aix-les-Bains,Besançon,Mountain stage
+193818,1938,18,186.0,Strasbourg,Metz,Flat stage
+193819,1938,19,196.0,Metz,Reims,Flat stage
+193821,1938,21,279.0,Lille,Paris,Flat stage
+19371,1937,1,263.0,Paris,Lille,Flat stage
+19372,1937,2,192.0,Lille,Charleville,Flat stage
+19373,1937,3,161.0,Charleville,Metz,Flat stage
+19374,1937,4,220.0,Metz,Belfort,Mountain stage
+19376,1937,6,180.0,Geneva,Aix-les-Bains,Mountain stage
+19377,1937,7,228.0,Aix-les-Bains,Grenoble,Mountain stage
+19378,1937,8,194.0,Grenoble,Briançon,Mountain stage
+19379,1937,9,220.0,Briançon,Digne,Mountain stage
+193710,1937,10,251.0,Digne,Nice,Mountain stage
+193715,1937,15,194.0,Luchon,Pau,Mountain stage
+193716,1937,16,235.0,Pau,Bordeaux,Flat stage
+193720,1937,20,234.0,Caen,Paris,Flat stage
+19361,1936,1,258.0,Paris,Lille,Flat stage
+19362,1936,2,192.0,Lille,Charleville,Flat stage
+19363,1936,3,161.0,Charleville,Metz,Flat stage
+19364,1936,4,220.0,Metz,Belfort,Mountain stage
+19365,1936,5,298.0,Belfort,Évian-les-Bains,Flat stage
+19366,1936,6,212.0,Évian-les-Bains,Aix-les-Bains,Mountain stage
+19367,1936,7,230.0,Aix-les-Bains,Grenoble,Mountain stage
+19368,1936,8,194.0,Grenoble,Briançon,Mountain stage
+19369,1936,9,220.0,Briançon,Digne,Mountain stage
+193610,1936,10,156.0,Digne,Nice,Flat stage
+193611,1936,11,126.0,Nice,Cannes,Mountain stage
+193612,1936,12,195.0,Cannes,Marseille,Flat stage
+193615,1936,15,325.0,Perpignan,Luchon,Mountain stage
+193616,1936,16,194.0,Luchon,Pau,Mountain stage
+193617,1936,17,229.0,Pau,Bordeaux,Flat stage
+193621,1936,21,234.0,Caen,Paris,Flat stage
+19351,1935,1,262.0,Paris,Lille,Flat stage
+19352,1935,2,192.0,Lille,Charleville,Flat stage
+19353,1935,3,161.0,Charleville,Metz,Flat stage
+19354,1935,4,220.0,Metz,Belfort,Mountain stage
+19356,1935,6,207.0,Evian,Aix-les-Bains,Mountain stage
+19357,1935,7,229.0,Aix-les-Bains,Grenoble,Mountain stage
+19358,1935,8,102.0,Grenoble,Gap,Mountain stage
+19359,1935,9,227.0,Gap,Digne,Mountain stage
+193510,1935,10,156.0,Digne,Nice,Flat stage
+193511,1935,11,126.0,Nice,Cannes,Mountain stage
+193512,1935,12,195.0,Cannes,Marseille,Flat stage
+193515,1935,15,325.0,Perpignan,Luchon,Mountain stage
+193516,1935,16,194.0,Luchon,Pau,Mountain stage
+193517,1935,17,224.0,Pau,Bordeaux,Flat stage
+193521,1935,21,221.0,Caen,Paris,Flat stage
+19341,1934,1,262.0,Paris,Lille,Flat stage
+19342,1934,2,192.0,Lille,Charleville,Flat stage
+19343,1934,3,161.0,Charleville,Metz,Flat stage
+19344,1934,4,220.0,Metz,Belfort,Mountain stage
+19345,1934,5,293.0,Belfort,Evian,Flat stage
+19346,1934,6,207.0,Evian,Aix-les-Bains,Mountain stage
+19347,1934,7,229.0,Aix-les-Bains,Grenoble,Mountain stage
+19348,1934,8,102.0,Grenoble,Gap,Mountain stage
+19349,1934,9,227.0,Gap,Digne,Mountain stage
+193410,1934,10,156.0,Digne,Nice,Flat stage
+193411,1934,11,126.0,Nice,Cannes,Mountain stage
+193412,1934,12,195.0,Cannes,Marseille,Flat stage
+193413,1934,13,172.0,Marseille,Montpellier,Flat stage
+193414,1934,14,177.0,Montpellier,Perpignan,Flat stage
+193415,1934,15,158.0,Perpignan,Ax-les-Thermes,Flat stage
+193416,1934,16,165.0,Ax-les-Thermes,Luchon,Mountain stage
+193417,1934,17,91.0,Luchon,Tarbes,Mountain stage
+193418,1934,18,172.0,Tarbes,Pau,Mountain stage
+193419,1934,19,215.0,Pau,Bordeaux,Flat stage
+193420,1934,20,183.0,Bordeaux,La Rochelle,Flat stage
+193422,1934,22,275.0,Nantes,Caen,Flat stage
+19331,1933,1,262.0,Paris,Lille,Flat stage
+19332,1933,2,192.0,Lille,Charleville,Flat stage
+19333,1933,3,166.0,Charleville,Metz,Flat stage
+19334,1933,4,220.0,Metz,Belfort,Mountain stage
+19335,1933,5,293.0,Belfort,Evian,Mountain stage
+19336,1933,6,207.0,Evian,Aix-les-Bains,Mountain stage
+19337,1933,7,229.0,Aix-les-Bains,Grenoble,Mountain stage
+19338,1933,8,102.0,Grenoble,Gap,Mountain stage
+19339,1933,9,227.0,Gap,Digne,Mountain stage
+193310,1933,10,156.0,Digne,Nice,Flat stage
+193311,1933,11,128.0,Nice,Cannes,Mountain stage
+193312,1933,12,208.0,Cannes,Marseille,Flat stage
+193313,1933,13,168.0,Marseille,Montpellier,Flat stage
+193314,1933,14,166.0,Montpellier,Perpignan,Flat stage
+193315,1933,15,158.0,Perpignan,Ax-les-Thermes,Mountain stage
+193316,1933,16,165.0,Ax-les-Thermes,Luchon,Mountain stage
+193317,1933,17,91.0,Luchon,Tarbes,Mountain stage
+193318,1933,18,185.0,Tarbes,Pau,Mountain stage
+193319,1933,19,233.0,Pau,Bordeaux,Flat stage
+193320,1933,20,183.0,Bordeaux,La Rochelle,Flat stage
+193321,1933,21,266.0,La Rochelle,Rennes,Flat stage
+193322,1933,22,169.0,Rennes,Caen,Flat stage
+19321,1932,1,208.0,Paris,Caen,Flat stage
+19322,1932,2,300.0,Caen,Nantes,Flat stage
+19323,1932,3,387.0,Nantes,Bordeaux,Flat stage
+19324,1932,4,206.0,Bordeaux,Pau,Flat stage
+19325,1932,5,229.0,Pau,Luchon,Mountain stage
+19326,1932,6,322.0,Luchon,Perpignan,Mountain stage
+19327,1932,7,168.0,Perpignan,Montpellier,Flat stage
+19328,1932,8,206.0,Montpellier,Marseille,Flat stage
+19329,1932,9,191.0,Marseille,Cannes,Flat stage
+193210,1932,10,132.0,Cannes,Nice,Mountain stage
+193211,1932,11,233.0,Nice,Gap,Mountain stage
+193212,1932,12,102.0,Gap,Grenoble,Mountain stage
+193213,1932,13,230.0,Grenoble,Aix-les-Bains,Mountain stage
+193214,1932,14,204.0,Aix-les-Bains,Evian,Mountain stage
+193215,1932,15,291.0,Evian,Belfort,Mountain stage
+193216,1932,16,145.0,Belfort,Strasbourg,Flat stage
+193217,1932,17,165.0,Strasbourg,Metz,Flat stage
+193218,1932,18,159.0,Metz,Charleville,Flat stage
+193219,1932,19,271.0,Charleville,Malo-les-Bains,Flat stage
+193220,1932,20,212.0,Malo-les-Bains,Amiens,Flat stage
+193221,1932,21,159.0,Amiens,Paris,Flat stage
+19311,1931,1,208.0,Paris,Caen,Flat stage
+19312,1931,2,212.0,Caen,Dinan,Flat stage
+19313,1931,3,206.0,Dinan,Brest,Flat stage
+19314,1931,4,211.0,Brest,Vannes,Flat stage
+19315,1931,5,202.0,Vannes,Les Sables d'Olonne,Flat stage
+19316,1931,6,338.0,Les Sables d'Olonne,Bordeaux,Flat stage
+19317,1931,7,180.0,Bordeaux,Bayonne,Flat stage
+19318,1931,8,106.0,Bayonne,Pau,Flat stage
+19319,1931,9,231.0,Pau,Luchon,Mountain stage
+193110,1931,10,322.0,Luchon,Perpignan,Mountain stage
+193111,1931,11,164.0,Perpignan,Montpellier,Flat stage
+193112,1931,12,207.0,Montpellier,Marseille,Flat stage
+193113,1931,13,181.0,Marseille,Cannes,Flat stage
+193114,1931,14,132.0,Cannes,Nice,Mountain stage
+193115,1931,15,233.0,Nice,Gap,Mountain stage
+193116,1931,16,102.0,Gap,Grenoble,Mountain stage
+193117,1931,17,230.0,Grenoble,Aix-les-Bains,Mountain stage
+193118,1931,18,204.0,Aix-les-Bains,Evian,Mountain stage
+193119,1931,19,282.0,Evian,Belfort,Mountain stage
+193120,1931,20,209.0,Belfort,Colmar,Mountain stage
+193121,1931,21,192.0,Colmar,Metz,Flat stage
+193122,1931,22,159.0,Metz,Charleville,Flat stage
+19301,1930,1,206.0,Paris,Caen,Flat stage
+19302,1930,2,203.0,Caen,Dinan,Flat stage
+19303,1930,3,206.0,Dinan,Brest,Flat stage
+19304,1930,4,210.0,Brest,Vannes,Flat stage
+19305,1930,5,202.0,Vannes,Les Sables d'Olonne,Flat stage
+19306,1930,6,285.0,Les Sables d'Olonne,Bordeaux,Flat stage
+19307,1930,7,222.0,Bordeaux,Hendaye,Flat stage
+19308,1930,8,146.0,Hendaye,Pau,Flat stage
+19309,1930,9,231.0,Pau,Luchon,Mountain stage
+193010,1930,10,322.0,Luchon,Perpignan,Mountain stage
+193011,1930,11,164.0,Perpignan,Montpellier,Flat stage
+193012,1930,12,209.0,Montpellier,Marseille,Flat stage
+193013,1930,13,181.0,Marseille,Cannes,Flat stage
+193014,1930,14,132.0,Cannes,Nice,Mountain stage
+193015,1930,15,333.0,Nice,Grenoble,Mountain stage
+193016,1930,16,331.0,Grenoble,Evian,Mountain stage
+193017,1930,17,282.0,Evian,Belfort,Mountain stage
+193018,1930,18,223.0,Belfort,Metz,Flat stage
+193019,1930,19,159.0,Metz,Charleville,Flat stage
+193020,1930,20,271.0,Charleville,Malo-les-Bains,Flat stage
+193021,1930,21,300.0,Malo-les-Bains,Paris,Flat stage
+19291,1929,1,206.0,Paris,Caen,Flat stage
+19292,1929,2,140.0,Caen,Cherbourg,Flat stage
+19293,1929,3,199.0,Cherbourg,Dinan,Flat stage
+19294,1929,4,206.0,Dinan,Brest,Flat stage
+19295,1929,5,208.0,Brest,Vannes,Flat stage
+19296,1929,6,206.0,Vannes,Les Sables d'Olonne,Flat stage
+19297,1929,7,285.0,Les Sables d'Olonne,Bordeaux,Flat stage
+19298,1929,8,182.0,Bordeaux,Bayonne,Flat stage
+19299,1929,9,363.0,Bayonne,Luchon,Mountain stage
+192910,1929,10,323.0,Luchon,Perpignan,Mountain stage
+192911,1929,11,366.0,Perpignan,Marseille,Flat stage
+192912,1929,12,191.0,Marseille,Cannes,Team time trial
+192913,1929,13,133.0,Cannes,Nice,Mountain stage
+192914,1929,14,333.0,Nice,Grenoble,Mountain stage
+192915,1929,15,329.0,Grenoble,Evian,Mountain stage
+192916,1929,16,283.0,Evian,Belfort,Mountain stage
+192917,1929,17,145.0,Belfort,Strasbourg,Flat stage
+192918,1929,18,165.0,Strasbourg,Metz,Flat stage
+192919,1929,19,159.0,Metz,Charleville,Team time trial
+192920,1929,20,270.0,Charleville,Malo-les-Bains,Team time trial
+192921,1929,21,234.0,Malo-les-Bains,Dieppe,Flat stage
+192922,1929,22,332.0,Dieppe,Paris,Flat stage
+19281,1928,1,207.0,Paris,Caen,Team time trial
+19282,1928,2,140.0,Caen,Cherbourg,Team time trial
+19283,1928,3,199.0,Cherbourg,Dinan,Team time trial
+19284,1928,4,206.0,Dinan,Brest,Team time trial
+19285,1928,5,208.0,Brest,Vannes,Team time trial
+19286,1928,6,204.0,Vannes,Les Sables d'Olonne,Team time trial
+19287,1928,7,285.0,Les Sables d'Olonne,Bordeaux,Team time trial
+19288,1928,8,225.0,Bordeaux,Hendaye,Team time trial
+19289,1928,9,387.0,Hendaye,Luchon,Mountain stage
+192810,1928,10,323.0,Luchon,Perpignan,Mountain stage
+192811,1928,11,363.0,Perpignan,Marseille,Flat stage
+192812,1928,12,330.0,Marseille,Nice,Mountain stage
+192813,1928,13,333.0,Nice,Grenoble,Mountain stage
+192814,1928,14,329.0,Grenoble,Evian,Mountain stage
+192815,1928,15,213.0,Evian,Pontarlier,Team time trial
+192816,1928,16,119.0,Pontarlier,Belfort,Team time trial
+192817,1928,17,145.0,Belfort,Strasbourg,Team time trial
+192818,1928,18,165.0,Strasbourg,Metz,Team time trial
+192819,1928,19,159.0,Metz,Charleville,Team time trial
+192820,1928,20,271.0,Charleville,Malo-les-Bains,Team time trial
+192821,1928,21,234.0,Malo-les-Bains,Dieppe,Team time trial
+192822,1928,22,331.0,Dieppe,Paris,Flat stage
+19271,1927,1,180.0,Paris,Dieppe,Team time trial
+19272,1927,2,103.0,Dieppe,Le Havre,Team time trial
+19273,1927,3,225.0,Le Havre,Caen,Team time trial
+19274,1927,4,140.0,Caen,Cherbourg,Team time trial
+19275,1927,5,199.0,Cherbourg,Dinan,Team time trial
+19276,1927,6,206.0,Dinan,Brest,Team time trial
+19277,1927,7,207.0,Brest,Vannes,Team time trial
+19278,1927,8,204.0,Vannes,Les Sables d'Olonne,Team time trial
+19279,1927,9,285.0,Les Sables d'Olonne,Bordeaux,Team time trial
+192710,1927,10,189.0,Bordeaux,Bayonne,Flat stage
+192711,1927,11,326.0,Bayonne,Luchon,Mountain stage
+192712,1927,12,323.0,Luchon,Perpignan,Mountain stage
+192713,1927,13,360.0,Perpignan,Marseille,Flat stage
+192714,1927,14,120.0,Marseille,Toulon,Team time trial
+192715,1927,15,220.0,Toulon,Nice,Mountain stage
+192716,1927,16,275.0,Nice,Briançon,Mountain stage
+192717,1927,17,283.0,Briançon,Evian,Mountain stage
+192718,1927,18,213.0,Evian,Pontarlier,Team time trial
+192719,1927,19,119.0,Pontarlier,Belfort,Team time trial
+192720,1927,20,145.0,Belfort,Strasbourg,Team time trial
+192721,1927,21,165.0,Strasbourg,Metz,Team time trial
+192722,1927,22,159.0,Metz,Charleville,Team time trial
+19261,1926,1,373.0,Evian,Mülhausen,Flat stage
+19262,1926,2,334.0,Mülhausen,Metz,Flat stage
+19263,1926,3,433.0,Metz,Dunkerque,Flat stage
+19264,1926,4,361.0,Dunkerque,Le Havre,Flat stage
+19265,1926,5,357.0,Le Havre,Cherbourg,Flat stage
+19266,1926,6,405.0,Cherbourg,Brest,Flat stage
+19267,1926,7,412.0,Brest,Les Sables d'Olonne,Flat stage
+19268,1926,8,285.0,Les Sables d'Olonne,Bordeaux,Flat stage
+19269,1926,9,189.0,Bordeaux,Bayonne,Flat stage
+192610,1926,10,326.0,Bayonne,Luchon,Mountain stage
+192611,1926,11,323.0,Luchon,Perpignan,Mountain stage
+192612,1926,12,427.0,Perpignan,Toulon,Flat stage
+192613,1926,13,280.0,Toulon,Nice,Flat stage
+192614,1926,14,275.0,Nice,Briançon,Mountain stage
+192615,1926,15,303.0,Briançon,Evian,Mountain stage
+192616,1926,16,321.0,Evian,Dijon,Flat stage
+192617,1926,17,341.0,Dijon,Paris,Flat stage
+19251,1925,1,340.0,Paris,Le Havre,Flat stage
+19252,1925,2,371.0,Le Havre,Cherbourg,Flat stage
+19253,1925,3,405.0,Cherbourg,Brest,Flat stage
+19254,1925,4,208.0,Brest,Vannes,Flat stage
+19255,1925,5,204.0,Vannes,Les Sables-d'Olonne,Flat stage
+19256,1925,6,293.0,Les Sables-d'Olonne,Bordeaux,Flat stage
+19257,1925,7,189.0,Bordeaux,Bayonne,Flat stage
+19258,1925,8,326.0,Bayonne,Luchon,Mountain stage
+19259,1925,9,323.0,Luchon,Perpignan,Mountain stage
+192510,1925,10,215.0,Perpignan,Nîmes,Flat stage
+192511,1925,11,215.0,Nîmes,Toulon,Flat stage
+192512,1925,12,280.0,Toulon,Nice,Mountain stage
+192513,1925,13,275.0,Nice,Briançon,Mountain stage
+192514,1925,14,303.0,Briançon,Evian,Mountain stage
+192515,1925,15,373.0,Evian,Mulhouse,Mountain stage
+192516,1925,16,334.0,Mulhouse,Metz,Flat stage
+192517,1925,17,433.0,Metz,Dunkerque,Flat stage
+192518,1925,18,343.0,Dunkerque,Paris,Flat stage
+19241,1924,1,381.0,Paris,Le Havre,Flat stage
+19242,1924,2,371.0,Le Havre,Cherbourg,Flat stage
+19243,1924,3,405.0,Cherbourg,Brest,Flat stage
+19244,1924,4,412.0,Brest,Les Sables-d'Olonne,Flat stage
+19245,1924,5,482.0,Les Sables-d'Olonne,Bayonne,Flat stage
+19246,1924,6,326.0,Bayonne,Luchon,Mountain stage
+19247,1924,7,323.0,Luchon,Perpignan,Mountain stage
+19248,1924,8,427.0,Perpignan,Toulon,Flat stage
+19249,1924,9,280.0,Toulon,Nice,Mountain stage
+192410,1924,10,275.0,Nice,Briançon,Mountain stage
+192411,1924,11,307.0,Briançon,Gex,Mountain stage
+192412,1924,12,360.0,Gex,Strasbourg,Mountain stage
+192413,1924,13,300.0,Strasbourg,Metz,Flat stage
+192414,1924,14,433.0,Metz,Dunkerque,Flat stage
+192415,1924,15,343.0,Dunkerque,Paris,Flat stage
+19231,1923,1,381.0,Paris,Le Havre,Flat stage
+19232,1923,2,371.0,Le Havre,Cherbourg,Flat stage
+19233,1923,3,405.0,Cherbourg,Brest,Flat stage
+19234,1923,4,412.0,Brest,Les Sables d'Olonne,Flat stage
+19235,1923,5,482.0,Les Sables d'Olonne,Bayonne,Flat stage
+19236,1923,6,326.0,Bayonne,Luchon,Mountain stage
+19237,1923,7,323.0,Luchon,Perpignan,Mountain stage
+19238,1923,8,427.0,Perpignan,Toulon,Flat stage
+19239,1923,9,281.0,Toulon,Nice,Mountain stage
+192310,1923,10,275.0,Nice,Briançon,Mountain stage
+192311,1923,11,260.0,Briançon,Geneva,Mountain stage
+192312,1923,12,377.0,Geneva,Strasbourg,Flat stage
+192313,1923,13,300.0,Strasbourg,Metz,Flat stage
+192314,1923,14,433.0,Metz,Dunkerque,Flat stage
+192315,1923,15,343.0,Dunkerque,Paris,Flat stage
+19221,1922,1,388.0,Paris,Le Havre,Flat stage
+19222,1922,2,364.0,Le Havre,Cherbourg,Flat stage
+19223,1922,3,405.0,Cherbourg,Brest,Flat stage
+19224,1922,4,412.0,Brest,Les Sables d'Olonne,Flat stage
+19225,1922,5,482.0,Les Sables d'Olonne,Bayonne,Flat stage
+19226,1922,6,326.0,Bayonne,Luchon,Mountain stage
+19227,1922,7,323.0,Luchon,Perpignan,Mountain stage
+19228,1922,8,411.0,Perpignan,Toulon,Flat stage
+19229,1922,9,284.0,Toulon,Nice,Mountain stage
+192210,1922,10,274.0,Nice,Briançon,Mountain stage
+192211,1922,11,260.0,Briançon,Geneva,Mountain stage
+192212,1922,12,371.0,Geneva,Strasbourg,Flat stage
+192213,1922,13,300.0,Strasbourg,Metz,Flat stage
+192214,1922,14,433.0,Metz,Dunkerque,Flat stage
+192215,1922,15,340.0,Dunkerque,Paris,Flat stage
+19211,1921,1,388.0,Paris,Le Havre,Flat stage
+19212,1921,2,364.0,Le Havre,Cherbourg,Flat stage
+19213,1921,3,405.0,Cherbourg,Brest,Flat stage
+19214,1921,4,412.0,Brest,Les Sables-d'Olonne,Flat stage
+19215,1921,5,482.0,Les Sables-d'Olonne,Bayonne,Flat stage
+19216,1921,6,326.0,Bayonne,Luchon,Mountain stage
+19217,1921,7,323.0,Luchon,Perpignan,Mountain stage
+19218,1921,8,411.0,Perpignan,Toulon,Flat stage
+19219,1921,9,272.0,Toulon,Nice,Mountain stage
+192110,1921,10,333.0,Nice,Grenoble,Mountain stage
+192111,1921,11,325.0,Grenoble,Geneva,Mountain stage
+192112,1921,12,371.0,Geneva,Strasbourg,Flat stage
+192113,1921,13,300.0,Strasbourg,Metz,Flat stage
+192114,1921,14,433.0,Metz,Dunkerque,Flat stage
+192115,1921,15,340.0,Dunkerque,Paris,Flat stage
+19201,1920,1,388.0,Paris,Le Havre,Flat stage
+19202,1920,2,364.0,Le Havre,Cherbourg,Flat stage
+19203,1920,3,405.0,Cherbourg,Brest,Flat stage
+19204,1920,4,412.0,Brest,Les Sables d'Olonne,Flat stage
+19205,1920,5,482.0,Les Sables d'Olonne,Bayonne,Flat stage
+19206,1920,6,326.0,Bayonne,Luchon,Mountain stage
+19207,1920,7,323.0,Luchon,Perpignan,Mountain stage
+19208,1920,8,325.0,Perpignan,Aix-en-Provence,Flat stage
+19209,1920,9,356.0,Aix-en-Provence,Nice,Mountain stage
+192010,1920,10,333.0,Nice,Grenoble,Mountain stage
+192011,1920,11,362.0,Grenoble,Gex,Mountain stage
+192012,1920,12,354.0,Gex,Strasbourg,Flat stage
+192013,1920,13,300.0,Strasbourg,Metz,Flat stage
+192014,1920,14,433.0,Metz,Dunkerque,Flat stage
+192015,1920,15,340.0,Dunkerque,Paris,Flat stage
+19191,1919,1,388.0,Paris,Le Havre,Flat stage
+19192,1919,2,364.0,Le Havre,Cherbourg,Flat stage
+19193,1919,3,405.0,Cherbourg,Brest,Flat stage
+19194,1919,4,412.0,Brest,Les Sables-d'Olonne,Flat stage
+19195,1919,5,482.0,Les Sables-d'Olonne,Bayonne,Flat stage
+19196,1919,6,326.0,Bayonne,Luchon,Mountain stage
+19197,1919,7,323.0,Luchon,Perpignan,Mountain stage
+19198,1919,8,370.0,Perpignan,Marseille,Flat stage
+19199,1919,9,338.0,Marseille,Nice,Mountain stage
+191910,1919,10,333.0,Nice,Grenoble,Mountain stage
+191911,1919,11,325.0,Grenoble,Geneva,Mountain stage
+191912,1919,12,371.0,Geneva,Strasbourg,Mountain stage
+191913,1919,13,315.0,Strasbourg,Metz,Flat stage
+191914,1919,14,468.0,Metz,Dunkerque,Flat stage
+191915,1919,15,340.0,Dunkerque,Paris,Flat stage
+19141,1914,1,388.0,Paris,Le Havre,Flat stage
+19142,1914,2,364.0,Le Havre,Cherbourg,Flat stage
+19143,1914,3,405.0,Cherbourg,Brest,Flat stage
+19144,1914,4,470.0,Brest,La Rochelle,Flat stage
+19145,1914,5,376.0,La Rochelle,Bayonne,Flat stage
+19146,1914,6,326.0,Bayonne,Luchon,Mountain stage
+19147,1914,7,323.0,Luchon,Perpignan,Mountain stage
+19148,1914,8,370.0,Perpignan,Marseille,Flat stage
+19149,1914,9,338.0,Marseille,Nice,Mountain stage
+191410,1914,10,323.0,Nice,Grenoble,Mountain stage
+191411,1914,11,325.0,Grenoble,Geneva,Mountain stage
+191412,1914,12,325.0,Geneva,Belfort,Mountain stage
+191413,1914,13,325.0,Belfort,Longwy,Mountain stage
+191414,1914,14,390.0,Longwy,Dunkerque,Flat stage
+191415,1914,15,340.0,Dunkerque,Paris,Flat stage
+19131,1913,1,388.0,Paris,Le Havre,Flat stage
+19132,1913,2,364.0,Le Havre,Cherbourg,Flat stage
+19133,1913,3,405.0,Cherbourg,Brest,Flat stage
+19134,1913,4,470.0,Brest,La Rochelle,Flat stage
+19135,1913,5,379.0,La Rochelle,Bayonne,Flat stage
+19136,1913,6,326.0,Bayonne,Luchon,Mountain stage
+19137,1913,7,324.0,Luchon,Perpignan,Mountain stage
+19138,1913,8,325.0,Perpignan,Aix-en-Provence,Flat stage
+19139,1913,9,356.0,Aix-en-Provence,Nice,Mountain stage
+191310,1913,10,333.0,Nice,Grenoble,Mountain stage
+191311,1913,11,325.0,Grenoble,Geneva,Mountain stage
+191312,1913,12,335.0,Geneva,Belfort,Mountain stage
+191313,1913,13,325.0,Belfort,Longwy,Mountain stage
+191314,1913,14,393.0,Longwy,Dunkerque,Flat stage
+191315,1913,15,340.0,Dunkerque,Paris,Flat stage
+19121,1912,1,351.0,Paris,Dunkerque,Flat stage
+19122,1912,2,388.0,Dunkerque,Longwy,Flat stage
+19123,1912,3,331.0,Longwy,Belfort,Mountain stage
+19124,1912,4,344.0,Belfort,Chamonix,Mountain stage
+19125,1912,5,366.0,Chamonix,Grenoble,Mountain stage
+19126,1912,6,323.0,Grenoble,Nice,Mountain stage
+19127,1912,7,334.0,Nice,Marseille,Mountain stage
+19128,1912,8,335.0,Marseille,Perpignan,Flat stage
+19129,1912,9,289.0,Perpignan,Luchon,Mountain stage
+191210,1912,10,326.0,Luchon,Bayonne,Mountain stage
+191211,1912,11,379.0,Bayonne,La Rochelle,Flat stage
+191212,1912,12,470.0,La Rochelle,Brest,Flat stage
+191213,1912,13,405.0,Brest,Cherbourg,Flat stage
+191214,1912,14,361.0,Cherbourg,Le Havre,Flat stage
+191215,1912,15,317.0,Le Havre,Paris,Flat stage
+19111,1911,1,351.0,Paris,Dunkerque,Flat stage
+19112,1911,2,388.0,Dunkerque,Longwy,Flat stage
+19113,1911,3,331.0,Longwy,Belfort,Mountain stage
+19114,1911,4,344.0,Belfort,Chamonix,Mountain stage
+19115,1911,5,366.0,Chamonix,Grenoble,Mountain stage
+19116,1911,6,348.0,Grenoble,Nice,Mountain stage
+19117,1911,7,334.0,Nice,Marseille,Mountain stage
+19118,1911,8,335.0,Marseille,Perpignan,Flat stage
+19119,1911,9,289.0,Perpignan,Luchon,Mountain stage
+191110,1911,10,326.0,Luchon,Bayonne,Mountain stage
+191111,1911,11,379.0,Bayonne,La Rochelle,Flat stage
+191112,1911,12,470.0,La Rochelle,Brest,Flat stage
+191113,1911,13,405.0,Brest,Cherbourg,Flat stage
+191114,1911,14,361.0,Cherbourg,Le Havre,Flat stage
+191115,1911,15,317.0,Le Havre,Paris,Flat stage
+19101,1910,1,269.0,Paris,Roubaix,Flat stage
+19102,1910,2,398.0,Roubaix,Metz,Flat stage
+19103,1910,3,259.0,Metz,Belfort,Mountain stage
+19104,1910,4,309.0,Belfort,Lyon,Mountain stage
+19105,1910,5,311.0,Lyon,Grenoble,Mountain stage
+19106,1910,6,345.0,Grenoble,Nice,Mountain stage
+19107,1910,7,345.0,Nice,Nîmes,Flat stage
+19108,1910,8,216.0,Nîmes,Perpignan,Flat stage
+19109,1910,9,289.0,Perpignan,Luchon,Mountain stage
+191010,1910,10,326.0,Luchon,Bayonne,Mountain stage
+191011,1910,11,269.0,Bayonne,Bordeaux,Flat stage
+191012,1910,12,391.0,Bordeaux,Nantes,Flat stage
+191013,1910,13,321.0,Nantes,Brest,Flat stage
+191014,1910,14,424.0,Brest,Caen,Flat stage
+191015,1910,15,262.0,Caen,Paris,Flat stage
+19091,1909,1,272.0,Paris,Roubaix,Flat stage
+19092,1909,2,398.0,Roubaix,Metz,Flat stage
+19093,1909,3,259.0,Metz,Belfort,Mountain stage
+19094,1909,4,309.0,Belfort,Lyon,Mountain stage
+19095,1909,5,311.0,Lyon,Grenoble,Mountain stage
+19096,1909,6,346.0,Grenoble,Nice,Mountain stage
+19097,1909,7,345.0,Nice,Nîmes,Flat stage
+19098,1909,8,303.0,Nîmes,Toulouse,Flat stage
+19099,1909,9,299.0,Toulouse,Bayonne,Flat stage
+190910,1909,10,269.0,Bayonne,Bordeaux,Flat stage
+190911,1909,11,391.0,Bordeaux,Nantes,Flat stage
+190912,1909,12,321.0,Nantes,Brest,Flat stage
+190913,1909,13,424.0,Brest,Caen,Flat stage
+190914,1909,14,250.0,Caen,Paris,Flat stage
+19081,1908,1,272.0,Paris,Roubaix,Flat stage
+19082,1908,2,398.0,Roubaix,Metz,Flat stage
+19083,1908,3,259.0,Metz,Belfort,Mountain stage
+19084,1908,4,309.0,Belfort,Lyon,Mountain stage
+19085,1908,5,311.0,Lyon,Grenoble,Mountain stage
+19086,1908,6,345.0,Grenoble,Nice,Mountain stage
+19087,1908,7,354.0,Nice,Nîmes,Flat stage
+19088,1908,8,303.0,Nîmes,Toulouse,Flat stage
+19089,1908,9,299.0,Toulouse,Bayonne,Flat stage
+190810,1908,10,269.0,Bayonne,Bordeaux,Flat stage
+190811,1908,11,391.0,Bordeaux,Nantes,Flat stage
+190812,1908,12,321.0,Nantes,Brest,Flat stage
+190813,1908,13,415.0,Brest,Caen,Flat stage
+190814,1908,14,251.0,Caen,Paris,Flat stage
+19071,1907,1,272.0,Paris,Roubaix,Flat stage
+19072,1907,2,398.0,Roubaix,Metz,Flat stage
+19073,1907,3,259.0,Metz,Belfort,Mountain stage
+19074,1907,4,309.0,Belfort,Lyon,Mountain stage
+19075,1907,5,311.0,Lyon,Grenoble,Mountain stage
+19076,1907,6,345.0,Grenoble,Nice,Mountain stage
+19077,1907,7,345.0,Nice,Nîmes,Flat stage
+19078,1907,8,303.0,Nîmes,Toulouse,Flat stage
+19079,1907,9,299.0,Toulouse,Bayonne,Flat stage
+190710,1907,10,269.0,Bayonne,Bordeaux,Flat stage
+190711,1907,11,391.0,Bordeaux,Nantes,Flat stage
+190712,1907,12,321.0,Nantes,Brest,Flat stage
+190713,1907,13,415.0,Brest,Caen,Flat stage
+190714,1907,14,251.0,Caen,Paris,Flat stage
+19061,1906,1,275.0,Paris,Lille,Flat stage
+19062,1906,2,400.0,Douai,Nancy,Flat stage
+19063,1906,3,416.0,Nancy,Dijon,Mountain stage
+19064,1906,4,311.0,Dijon,Grenoble,Flat stage
+19065,1906,5,345.0,Grenoble,Nice,Mountain stage
+19066,1906,6,292.0,Nice,Marseille,Flat stage
+19067,1906,7,480.0,Marseille,Toulouse,Flat stage
+19068,1906,8,300.0,Toulouse,Bayonne,Flat stage
+19069,1906,9,338.0,Bayonne,Bordeaux,Flat stage
+190610,1906,10,391.0,Bordeaux,Nantes,Flat stage
+190611,1906,11,321.0,Nantes,Brest,Flat stage
+190612,1906,12,415.0,Brest,Caen,Flat stage
+190613,1906,13,259.0,Caen,Paris,Flat stage
+19051,1905,1,340.0,Paris,Nancy,Flat stage
+19052,1905,2,299.0,Nancy,Besançon,Mountain stage
+19053,1905,3,327.0,Besançon,Grenoble,Flat stage
+19054,1905,4,348.0,Grenoble,Toulon,Mountain stage
+19055,1905,5,192.0,Toulon,Nîmes,Flat stage
+19056,1905,6,307.0,Nîmes,Toulouse,Flat stage
+19057,1905,7,268.0,Toulouse,Bordeaux,Flat stage
+19058,1905,8,257.0,Bordeaux,La Rochelle,Flat stage
+19059,1905,9,263.0,La Rochelle,Rennes,Flat stage
+190510,1905,10,167.0,Rennes,Caen,Flat stage
+190511,1905,11,253.0,Caen,Paris,Flat stage
+19041,1904,1,467.0,Montgeron,Lyon,Flat stage
+19042,1904,2,374.0,Lyon,Marseille,Mountain stage
+19043,1904,3,424.0,Marseille,Toulouse,Flat stage
+19044,1904,4,268.0,Toulouse,Bordeaux,Flat stage
+19045,1904,5,425.0,Bordeaux,Nantes,Flat stage
+19046,1904,6,471.0,Nantes,Paris,Flat stage
+19031,1903,1,467.0,Paris,Lyon,Flat stage
+19032,1903,2,374.0,Lyon,Marseille,Mountain stage
+19033,1903,3,423.0,Marseille,Toulouse,Flat stage
+19034,1903,4,268.0,Toulouse,Bordeaux,Flat stage
+19035,1903,5,425.0,Bordeaux,Nantes,Flat stage
+19036,1903,6,471.0,Nantes,Paris,Flat stage
